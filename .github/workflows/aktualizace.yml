@@ -2,7 +2,7 @@ name: Aktualizace přehledu článků
 
 on:
   schedule:
-    - cron: "17 4 * * *"     # každý den v 4:17 UTC (5:17 v zimě / 6:17 v létě českého času)
+    - cron: "17 4 */2 * *"     # každý den v 4:17 UTC (5:17 v zimě / 6:17 v létě českého času)
   workflow_dispatch:          # ruční spuštění tlačítkem „Run workflow“
 
 permissions:
