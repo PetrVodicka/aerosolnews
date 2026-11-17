@@ -299,17 +299,27 @@ def highlight(text, terms):
     return out
 
 
+def local_date(dt):
+    """Datum v českém čase (GitHub běží v UTC)."""
+    try:
+        from zoneinfo import ZoneInfo
+        return dt.astimezone(ZoneInfo("Europe/Prague")).strftime("%Y-%m-%d")
+    except Exception:
+        return dt.astimezone().strftime("%Y-%m-%d")
+
+
 def write_html(path, articles, status, args):
     sources = sorted({a["source"] for a in articles})
     rows = {"Primární": [], "Popularizační": []}
     for a in articles:
-        date = a["date"].strftime("%Y-%m-%d") if a["date"] else "?"
+        date = local_date(a["seen"])
+        pub = a["date"].strftime("%Y-%m-%d") if a["date"] else "neuvedeno"
         summ = a["summary"][:400] + ("…" if len(a["summary"]) > 400 else "")
         rows[a["kind"]].append(f"""
-<article class="card" data-src="{html.escape(a['source'])}" data-topic="{a['topic']}" data-kind="{a['kind']}" data-date="{date}" data-score="{a['score']}">
+<article class="card" data-src="{html.escape(a['source'])}" data-topic="{a['topic']}" data-kind="{a['kind']}" data-date="{a['seen'].isoformat()}" data-score="{a['score']}">
   <div class="meta"><span class="score s{min(a['score']//5,4)}">{a['score']}</span>
     <span class="kind k{1 if a['kind']=='Primární' else 2}">{'Primární' if a['kind']=='Primární' else 'Popularizační'}</span>
-    <span class="topic t{1 if a['topic']=='Země' else 2}">{a['topic']}</span> <span class="src">{html.escape(a['source'])}</span> · <span>{date}</span>{' · <span class="new">nové</span>' if a.get('is_new') else ''}</div>
+    <span class="topic t{1 if a['topic']=='Země' else 2}">{a['topic']}</span> <span class="src">{html.escape(a['source'])}</span> · <span title="datum vydání: {pub}">staženo {date}</span>{' · <span class="new">nové</span>' if a.get('is_new') else ''}</div>
   <h2><a href="{html.escape(a['link'])}" target="_blank" rel="noopener">{highlight(a['title'], a['hits'])}</a></h2>
   <p>{highlight(summ, a['hits'])}</p>
   <div class="tags">{''.join(f'<span>{html.escape(h)}</span>' for h in a['hits'])}</div>
@@ -393,7 +403,7 @@ def write_html(path, articles, status, args):
   <select id="min"><option value="0">Jakékoli skóre</option><option value="5">skóre ≥ 5</option><option value="8">skóre ≥ 8</option><option value="12">skóre ≥ 12</option></select>
   <select id="kind"><option value="">Primární i popularizační</option><option value="Primární">Jen primární (časopisy)</option><option value="Popularizační">Jen popularizační</option></select>
   <label class="chk"><input type="checkbox" id="split" {"checked" if args.split else ""}> Rozdělit na primární / popularizační</label>
-  <select id="sort"><option value="score">Řadit podle skóre</option><option value="date">Řadit podle data</option></select>
+  <select id="sort"><option value="date">Řadit podle data stažení</option><option value="score">Řadit podle skóre</option></select>
  </div>
  <div id="count"></div>
 </header>
@@ -417,7 +427,8 @@ function upd(){{
 }}
 function layout(){{
  const split=$('split').checked, by=$('sort').value;
- const sorted=[...cards].sort((a,b)=> by==='score' ? (+b.dataset.score - +a.dataset.score) : b.dataset.date.localeCompare(a.dataset.date));
+ const sorted=[...cards].sort((a,b)=> by==='score' ? (+b.dataset.score - +a.dataset.score) || b.dataset.date.localeCompare(a.dataset.date)
+                                         : b.dataset.date.slice(0,10).localeCompare(a.dataset.date.slice(0,10)) || (+b.dataset.score - +a.dataset.score));
  sorted.forEach(c=>{{ const tgt = !split ? 'secA' : (c.dataset.kind==='Primární' ? 'secP' : 'secS'); $(tgt).querySelector('.cards').appendChild(c); }});
  $('secA').style.display=split?'none':''; $('secP').style.display=split?'':'none'; $('secS').style.display=split?'':'none';
  upd();
@@ -432,9 +443,9 @@ layout();
 def write_csv(path, articles):
     with path.open("w", newline="", encoding="utf-8-sig") as f:
         w = csv.writer(f, delimiter=";")
-        w.writerow(["skóre", "typ zdroje", "téma", "datum", "zdroj", "titulek", "odkaz", "klíčová slova", "popis"])
+        w.writerow(["staženo", "skóre", "typ zdroje", "téma", "datum vydání", "zdroj", "titulek", "odkaz", "klíčová slova", "popis"])
         for a in articles:
-            w.writerow([a["score"], a["kind"], a["topic"], a["date"].strftime("%Y-%m-%d") if a["date"] else "",
+            w.writerow([local_date(a["seen"]), a["score"], a["kind"], a["topic"], a["date"].strftime("%Y-%m-%d") if a["date"] else "",
                         a["source"], a["title"], a["link"], ", ".join(a["hits"]), a["summary"][:500]])
 
 
@@ -574,7 +585,7 @@ def save_archive(path, archive):
     limit = datetime.now(timezone.utc) - timedelta(days=ARCHIVE_KEEP_DAYS)
     out = {}
     for k, r in archive.items():
-        if (r.get("date") or r["first_seen"]) < limit:
+        if r["first_seen"] < limit:
             continue
         rr = dict(r)
         rr["date"] = r["date"].isoformat() if r.get("date") else None
@@ -666,9 +677,11 @@ def main():
     candidates = fresh + [r for r in archive.values()]
     articles, by_key = [], {}
     for r in candidates:
-        d = r.get("date") or r.get("first_seen")
-        if d and d < cutoff:
+        d = r.get("date")
+        if d and d < cutoff:  # vydáno před začátkem období
             continue
+        arch = archive.get(rec_key(r))
+        fs = (arch or {}).get("first_seen") or r.get("first_seen") or now
         score, hits, planet = score_text(r["title"], r["summary"], args.narrow)
         if score < args.min_score:
             continue
@@ -680,10 +693,11 @@ def main():
                 prev.update(source=r["source"], summary=r["summary"], score=score, hits=hits)
             if not prev["date"] and r.get("date"):
                 prev["date"] = r["date"]
+            prev["seen"] = min(prev["seen"], fs)
             for k in keys:
                 by_key[k] = prev
             continue
-        art = {"source": r["source"], "title": r["title"], "link": r["link"], "date": r.get("date"),
+        art = {"source": r["source"], "title": r["title"], "link": r["link"], "date": r.get("date"), "seen": fs,
                "summary": r["summary"], "score": score, "hits": hits,
                "is_new": r["link"] not in seen and ("doi:" + r.get("doi", "")) not in seen,
                "topic": "Jiné planety a vesmír" if planet else "Země"}
@@ -691,6 +705,9 @@ def main():
             by_key[k] = art
         articles.append(art)
 
+    # Do období se počítá datum STAŽENÍ (první nález skriptem), ne datum vydání –
+    # některé časopisy uvádějí data vydání i měsíce dopředu.
+    articles = [a for a in articles if a["seen"] >= cutoff]
     status.sort(key=lambda s: s["name"])
     for a in articles:
         a["kind"] = source_kind(a["source"])
@@ -700,7 +717,7 @@ def main():
         articles = [a for a in articles if a["kind"] == "Popularizační"]
     if args.only_new:
         articles = [a for a in articles if a["is_new"]]
-    articles.sort(key=lambda a: (a["score"], a["date"] or datetime.min.replace(tzinfo=timezone.utc)), reverse=True)
+    articles.sort(key=lambda a: (a["seen"].date(), a["score"]), reverse=True)  # nejnovější stažené nahoře
 
     stamp = (datetime.now().strftime("%Y-%m-%d_%H%M") + ("_uzky" if args.narrow else "")
              + {"vse": "", "primarni": "_primarni", "popularizacni": "_popularizacni"}[args.typ])
