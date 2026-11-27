@@ -2921,7 +2921,7 @@
 "link": "https://doi.org/10.1038/s41467-026-78976-x",
 "doi": "10.1038/s41467-026-78976-x",
 "date": "2026-11-09T00:00:00+00:00",
-"summary": "Abstract Anaerobic methanotrophic (ANME) archaea are key regulators of methane emissions in anoxic environments, yet their physiology remains poorly understood due to the lack of axenic cultures. Here, we show that cultivation on poised electrodes yields near-axenic cultures (95.8% relative abundance) of a freshwater ANME, for which we propose the name ‘ Candidatus Methanoperedens vercellensis’. We identified key physiological properties of ‘ Ca . M. vercellensis’: doubling times of 4.6 days at 30 °C, menaquinone as respiratory electron carrier, the inability to oxidize ethane, and preferential reduction of iron oxides over nitrate after cultivation on electrodes. A 3.3 Å cryo-electron microscopy structure of filaments displayed on the archaeal surface revealed polymerized OmcZ-type cytochrome nanowires, which are homologous to OmcZ nanowires essential for long-range (>10 μm) extracellular electron transfer (EET) in Geobacter sulfurreducens . The archaeal OmcZ-type nanowires include dense, collinear stacking of protected hemesakin to bacterial OmcZ nanowires, but with post-translational modification, thus yielding morphology distinct from bacterial OmcZ nanowires. Notably, in contrast to bacterial OmcZ, archaeal OmcZ-type nanowires do not form interconnected networks, and hemes are less solvent-exposed, which can protect them from the environment. Surprisingly, these archaea assemble OmcZ into nanowires even in the apparent absence of prolyl isomerase involved in folding bacterial OmcZ. This work establishes a model system for molecular understanding of nanowire-mediated EET in archaea.",
+"summary": "Abstract Anaerobic methanotrophic (ANME) archaea are key regulators of methane emissions in anoxic environments, yet their physiology remains poorly understood due to the lack of axenic cultures. Here, we show that cultivation on poised electrodes yields near-axenic cultures (95.8% relative abundance) of a freshwater ANME, for which we propose the name ‘ Candidatus Methanoperedens vercellensis’. We identified key physiological properties of ‘ Ca . M. vercellensis’: doubling times of 4.6 days at 30 °C, menaquinone as respiratory electron carrier, the inability to oxidize ethane, and preferential reduction of iron oxides over nitrate after cultivation on electrodes. A 3.3 Å cryo-electron microscopy structure of filaments displayed on the archaeal surface revealed polymerized OmcZ-type cytochrome nanowires, which are homologous to OmcZ nanowires essential for long-range (>10 μm) extracellular electron transfer (EET) in Geobacter sulfurreducens . The archaeal OmcZ-type nanowires include dense, collinear stacking of protected hemes akin to bacterial OmcZ nanowires, but with post-translational modification, thus yielding morphology distinct from bacterial OmcZ nanowires. Notably, in contrast to bacterial OmcZ, archaeal OmcZ-type nanowires do not form interconnected networks, and hemes are less solvent-exposed, which can protect them from the environment. Surprisingly, these archaea assemble OmcZ into nanowires even in the apparent absence of prolyl isomerase involved in folding bacterial OmcZ. This work establishes a model system for molecular understanding of nanowire-mediated EET in archaea.",
 "first_seen": "2026-11-14T17:53:37.687184+00:00"
 },
 "doi:10.1038/s41467-026-79316-9": {
@@ -11687,7 +11687,7 @@
 "link": "https://doi.org/10.5194/acp-26-16821-2026",
 "doi": "10.5194/acp-26-16821-2026",
 "date": "2026-11-24T20:25:43+00:00",
-"summary": "Southern Hemisphere sudden stratospheric warmings continue to be relevant under global warming Sabine Bischof, Pia Undine Rethmeier, Wenjuan Huo, Sebastian Wahl, and Robin Pilch Kedzierski Atmos. Chem. Phys., 26, 16821–16836, https://doi.org/10.5194/acp-26-16821-2026, 2026 In 2019, a stratospheric warming event over Antarctica contributed to extreme heat and drought in Australia, intensifying that year's fire season. The impact of climate change on the occurrence of such events remains uncertain. Our climate model simulations indicate that in the coming decades, stratospheric warming events over Antarctica are likely to continue influencing extreme heat in regions such as Australia and Southern Africa, compounding the direct effects of global warming.",
+"summary": "In 2019, a stratospheric warming event strongly disrupted the stratospheric circulation in the Southern Hemisphere. This disruption led to negative anomalies in the Southern Annular Mode that propagated down to the troposphere and contributed to hotter and drier conditions in Australia, culminating in a devastating fire season. Although such events have been rare in the past, it remains unclear how climate change will affect their occurrence and surface impacts in the coming decades. We conducted climate model time slice experiments to investigate how frequency and associated surface responses of Southern Hemispheric stratospheric warmings change under different global warming levels (present-day, 1.5, 2, 3, and 4 K). Additionally, we used an ensemble of historical experiments to confirm that our model simulations accurately capture the observed response to stratospheric warmings in the Southern Hemisphere. To investigate the change in stratosphere-troposphere coupling, we distinguish between downward- and non-propagating stratospheric events based on the Southern Annular Mode response on different atmospheric levels. Our findings show that the frequency of major stratospheric warmings remains close to the historical frequency up to a warming of 2 K before decreasing more significantly. The coupling between the stratosphere and the troposphere shows a large decrease only at the 4 K warming level. Hence, as long as global warming levels remain at intermediate levels, the possibility of sudden stratospheric warmings contributing to extreme events continues to be relevant and would add to heat-related stress in Australia and Southern Africa, making adaptation to global warming more challenging.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16779-2026": {
@@ -11696,7 +11696,7 @@
 "link": "https://doi.org/10.5194/acp-26-16779-2026",
 "doi": "10.5194/acp-26-16779-2026",
 "date": "2026-11-24T20:25:43+00:00",
-"summary": "New processes to counteract sedimentation of coarse dust particles are required for climate models to agree with aircraft observations Natalie G. Ratcliffe, Claire L. Ryder, Nicolas Bellouin, Anthony Jones, Ben Johnson, Stephanie Woodward, Lisa-Maria Wieland, Josef Gasteiger, and Bernadett Weinzierl Atmos. Chem. Phys., 26, 16779–16803, https://doi.org/10.5194/acp-26-16779-2026, 2026 Observations show large dust particles travel much further than expected, which is not replicated in weather and climate models. We use a climate model to understand which processes dominantly impact large particle transport, and find that modelled large particle transport agrees with observations best after reducing the particle gravitational settling by ~50-95 %. We prove the presence of processes not represented accurately or at all in the model which act on large particles in the real world.",
+"summary": "Recent observations reveal coarse (diameter > 2.5 µm) mineral dust particles are transported unexpectedly great distances from their Saharan source. Transport models represent this coarse dust transport poorly, having important feedbacks on Earth's radiative budget, carbon and hydrological cycles, and human health. We carry out sensitivity tests on the trans-Atlantic transport and deposition processes governing the long-range evolution of mineral dust size distribution in a climate model (HadGEM3-GA7.1). We test the sensitivity of coarse particle transport (up to 63.2 µm diameter) to sedimentation, convective and turbulent mixing, impaction scavenging, and dust shortwave absorption by removing or scaling the magnitude of these processes. Reductions in sedimentation velocity of 50 %–95 % bring modelled coarse particle transport into better agreement with in-situ aircraft observations with the required reduction increasing with transport distance. Other tested processes do not result in the multiple order of magnitude changes in transported dust mass required for agreement with observations. We infer that additional process/es which are misrepresented or missing in the model must be acting to counteract particle sedimentation. Convective and turbulent mixing have minimal impact on coarse particle transport in the model but are key in controlling the vertical distribution of dust in the Saharan air layer and marine boundary layer. Impaction scavenging dominantly impacts fine dust concentration. This study adds to the growing body of evidence pointing to processes involved in coarse mineral dust transport and deposition which are not represented accurately or at all in models, which counteract the sedimentation of coarse particles in the real-world.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16741-2026": {
@@ -11705,7 +11705,7 @@
 "link": "https://doi.org/10.5194/acp-26-16741-2026",
 "doi": "10.5194/acp-26-16741-2026",
 "date": "2026-11-24T20:25:43+00:00",
-"summary": "High-frequency monitoring of SO2 plumes from moderate-scale volcanic eruptions using a synergy of GEO and LEO satellites: a case study of the 2024 Kanlaon eruption Shangyi Liu, Yingjun Zheng, Mengya Sheng, Lu Lee, Chengli Qi, Feng Lu, Antonin Knizek, Rui Song, Roy G. Grainger, Bruno Franco, Lieven Clarisse, Cathy Clerbaux, Nicolas Theys, Jhoon Kim, and Zhao-Cheng Zeng Atmos. Chem. Phys., 26, 16741–16764, https://doi.org/10.5194/acp-26-16741-2026, 2026 Volcanic sulfur dioxide evolves rapidly after an eruption, making it challenging to monitor. Using the 2024 Kanlaon eruption as a case study, we propose a constellation of geostationary and low Earth orbit satellites to track SO2 mass and layer height at high frequency. We present the first quantitative SO2 retrieval from a geostationary hyperspectral sounder (FY-4B/GIIRS). This research provides a vital blueprint for the future global monitoring of volcanic events.",
+"summary": "Satellite remote sensing is crucial for monitoring volcanic sulfur dioxide (SO 2 ) globally. However, the rapid evolution of volcanic plumes necessitates high-frequency observations, which typical twice-daily overpasses of Low Earth Orbit (LEO) sensors fail to capture. To address this limitation, this study presents a synergistic Geostationary Earth Orbit (GEO) and LEO observation framework. Specifically, we show the first quantitative SO 2 retrieval from a GEO hyperspectral infrared sounder (FY-4B/GIIRS), using an optimal-estimation-based retrieval algorithm. Because current and upcoming GEO infrared sounders lack the strong ν 3 absorption band, our algorithm uniquely leverages the weaker ν 1 absorption band. Simulation experiments indicate that the theoretical detection limit (retrieval error >100 %) is 3 DU for plumes at 10 km altitude. During the June 2024 Kanlaon eruption, GIIRS captured early, high-concentration plume dynamics, though tracking diluted plumes remained challenging. Crucially, it provided the earliest satellite detection by continuously monitoring the initial nighttime burst (posterior error of 53.7±24.1 %), filling critical temporal gaps left by ultraviolet sensors. Combined with LEO (HIRAS, IASI, CrIS, TROPOMI and MLS) and GEO sensor (GEMS), the synergistic framework achieved high frequency quantification of SO 2 mass loading and transport pathways. We estimated a peak SO 2 mass loading of ∼40 kt and an e -folding time of 5.2±0.5 d. Furthermore, multi-platform observations identified significant discrepancies in the CAMS global model regarding the plume's evolution and magnitude. This geostationary-driven synergistic framework delivers high-fidelity observational records, establishing a robust basis for monitoring moderate-scale volcanic events and evaluating atmospheric chemical transport models.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16805-2026": {
@@ -11714,7 +11714,7 @@
 "link": "https://doi.org/10.5194/acp-26-16805-2026",
 "doi": "10.5194/acp-26-16805-2026",
 "date": "2026-11-24T20:25:43+00:00",
-"summary": "Gravity wave vertical wind distributions shape homogeneous ice nucleation in tropical tropopause layer cirrus Bernd Kärcher Atmos. Chem. Phys., 26, 16805–16820, https://doi.org/10.5194/acp-26-16805-2026, 2026 Cloud models rely on a faithful representation of vertical wind fluctuations due to gravity waves. This manuscript investigates methods that predict such wave activity, compares their statistical properties with those from long-duration balloon measurements, and applies the data and methods to study effects on tropical tropopause layer (TTL) cirrus formation.",
+"summary": "Internal gravity waves have a profound impact on the nucleation of cirrus ice crystals in the stably stratified upper troposphere. Cloud models require the use of parameterization schemes that represent gravity wave-induced variability in vertical wind speeds with high fidelity. Accounting for such variability in microphysical models is a stringent test of their ability to accurately simulate ice nucleation events in cirrus. However, such schemes are sparse and have not been characterized in detail. This study presents a comparative analysis of how several wave-cirrus parameterizations impact the formation of tropical tropopause layer cirrus by evaluating simulated distributions of homogeneously nucleated ice crystal number concentrations against the statistic based on long-duration superpressure balloon measurements. Fluctuation distributions, temporal autocorrelations, and power spectra are analyzed for both measurements and parameterizations. Driven by these inputs, microphysical simulations yield broad ice number distributions with consistent results between the balloon-borne data and synthetic exponential vertical wind speed parameterizations. Moderate discrepancies between these distributions fall within the uncertainty range of independent microphysical models. These differences are primarily attributable to the data filtering necessary to remove non-geophysical artifacts from the balloon measurements, alongside spectral power mismatches across the buoyancy frequency. To substantially improve wave-cirrus parameterizations in process-based and global models, future research should prioritize enhancing the representation of non-orographic gravity wave forcing as a function of distance from source regions and within wave-trapping environments.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16765-2026": {
@@ -11723,7 +11723,7 @@
 "link": "https://doi.org/10.5194/acp-26-16765-2026",
 "doi": "10.5194/acp-26-16765-2026",
 "date": "2026-11-24T20:25:43+00:00",
-"summary": "Primary sources and secondary formation of brown carbon in urban Shanghai: insights from bihourly measurements of brown carbon and organic tracers Qiongqiong Wang, Zhongliang Huang, Zongjun Li, Shuhui Zhu, Liping Qiao, Min Zhou, Dandan Huang, Hongli Wang, Qingyan Fu, Kezheng Liao, and Jian Zhen Yu Atmos. Chem. Phys., 26, 16765–16777, https://doi.org/10.5194/acp-26-16765-2026, 2026 Brown carbon (BrC) is a poorly understood carbonaceous aerosol component that significantly affects climate and air quality. We examined the sources and secondary formation of BrC based on long-term field measurements of bihourly BrC and a suite of organic and elemental tracers in urban Shanghai. Seasonal contrast of source contributions and complexity of secondary formation and evolution was observed. This study offers a scientific basis for BrC mitigation and urban air quality improvement.",
+"summary": "Brown carbon (BrC) is a significant component of atmospheric carbonaceous aerosols and has important influence on climate, atmospheric chemistry, and air quality. Our knowledge about its sources and atmospheric evolution is limited due to the challenges of accurate estimation of its mass concentrations. To address this gap, we examined concurrent measurements of bihourly BrC and a suite of organic molecular and elemental tracers in urban Shanghai from March to August 2020. BrC was determined by synergistically applying the Bayesian inference (BI) model to multi-wavelength aethalometer and total carbon (TC) measurements. BrC constituted 38 %–40 % of TC, with pronounced seasonal differences in diurnal evolution. The source apportionment analysis resolved 15 source factors and among them 7 were secondary sources, namely, secondary nitrate and sulfate formation processes, aromatic secondary organic aerosol (SOA), α -pinene SOA, β -caryophyllene SOA, isoprene SOA, oxygenated cooking OA, and secondary biomass burning. Secondary BrC accounted for 42 % and 49 % of total BrC in spring and summer, respectively. Seasonal contrast of the BrC contributions from primary and secondary sources were noticed. The formation mechanisms of secondary BrC were investigated by isolating events with continuous increment in secondary BrC concentrations, and the analysis suggested the diversity of oxidative pathways governing secondary BrC production. This study demonstrated the potential applicability of coupling the BI framework with online measurements of organic and elemental tracers for robust, chemically resolved BrC source apportionment. Our field observations provide the first high-time-resolution source apportionment of BrC mass in Shanghai and offer new insights into the primary sources and secondary formation of BrC in the urban atmosphere.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16653-2026": {
@@ -11732,7 +11732,7 @@
 "link": "https://doi.org/10.5194/acp-26-16653-2026",
 "doi": "10.5194/acp-26-16653-2026",
 "date": "2026-11-23T20:25:43+00:00",
-"summary": "Technical note: Deep-GF-PRM – a deep learning framework for parameterizing aerosol hygroscopic growth factor probability density function Huiping Lu, Jiaoshi Zhang, Jingyi Zhang, Shengqian Zhou, Yang Wang, Jianguo Liu, and Huaqiao Gui Atmos. Chem. Phys., 26, 16653–16666, https://doi.org/10.5194/acp-26-16653-2026, 2026 A new deep-learning framework is developed to map the modal parameters of hygroscopic growth factor probability density function (GF-PDF) to raw instrument responses, thereby providing an accurate and efficient solution for parameterizing aerosol hygroscopic properties.",
+"summary": "The hygroscopic properties of atmospheric aerosols are crucial for quantifying their impact on radiation and cloud formation. They are often characterized by a growth factor probability density function (GF-PDF), which can be parameterized as a superposition of multiple Gaussian distributions. Conventionally, nonparametric inversion methods are developed to retrieve GF-PDF from the instrument responses, e.g., measurements of humidified tandem differential mobility analyzer (HTDMA). However, additional parametric fittings are required to extract modal parameters from the inverted GF-PDF, a process that is computationally intensive and susceptible to fitting errors. In this study, we introduce Deep-GF-PRM, a deep learning framework that parameterizes the GF-PDF modal parameters directly from the instrument responses. The core of Deep-GF-PRM is a deep neural network that embeds the instrument's kernel function and physical constraints, creating end-to-end mapping from the instrument response to the GF-PDF modal parameters. Trained on a large dataset of synthetic instrument responses generated using a wide range of GF-PDFs and noise levels, Deep-GF-PRM accurately reproduces synthetic GF-PDFs and retrieves modal parameters with high fidelity. The model is applied to real-world measurements, and yields results highly consistent with nonparametric inversions. Deep-GF-PRM thus provides an efficient solution for parameterizing aerosol hygroscopic properties.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16615-2026": {
@@ -11741,7 +11741,7 @@
 "link": "https://doi.org/10.5194/acp-26-16615-2026",
 "doi": "10.5194/acp-26-16615-2026",
 "date": "2026-11-23T20:25:43+00:00",
-"summary": "Turbulence occurrence in the Tropical Tropopause Layer from superpressure balloon observations: distribution and sources Flore Juge, Richard Wilson, and Albert Hertzog Atmos. Chem. Phys., 26, 16615–16652, https://doi.org/10.5194/acp-26-16615-2026, 2026 Turbulence in the Tropical Tropopause Layer affects the transport of gases and momentum into the stratosphere but is poorly documented. Using long-duration balloon flights from Strateole-2 project, we present turbulence occurrence and distribution near 20 km altitude and identify its main sources: short-period convective gravity-waves over land and the Maritime Continent; Quasi-Biennial Oscillation wind shear potentially modulated by atmospheric response to convective heating over the Pacific.",
+"summary": "Turbulence characteristics remain poorly documented in the Tropical Tropopause Layer (TTL), although turbulence may play a significant role in the vertical transport of tracers and momentum from the troposphere to the stratosphere. In the framework of the Strateole-2 project, we use pressure, temperature and GPS in situ measurements collected by stratospheric Super-Pressure Balloons (SPBs) during long-duration flights at quasi-constant altitude (∼ 20 km) across the tropics. These quasi-Lagrangian observations are used to estimate high-resolution (∼ 110 s) time-series of the gradient Richardson number ( R i ), allowing us to characterize the flow regime, turbulent or laminar, along the balloon trajectories. Using a classical instability criterion ( R i <0.25), we estimate a mean turbulent fraction of about 0.18 in the tropical lower stratosphere and investigate its geographical variability. Turbulence occurrence is significantly enhanced near deep convection. Increased kinetic energy of short-period gravity waves is also observed close to convection, strongly suggesting that convectively generated gravity waves constitute an important source of turbulence in the TTL. We also identify turbulent events occurring far from convective regions, particularly over the Pacific Ocean, where they cluster in areas of enhanced vertical wind shear, likely resulting from the combined influence of the QBO background state and large-scale atmospheric responses potentially associated with tropical convective forcing. These results highlight the role of both convectively generated gravity waves and large-scale circulation variability in shaping the dynamical conditions favorable to turbulence in the tropical lower stratosphere, with potential implications for tracer transport and mixing across the TTL.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16719-2026": {
@@ -11750,7 +11750,7 @@
 "link": "https://doi.org/10.5194/acp-26-16719-2026",
 "doi": "10.5194/acp-26-16719-2026",
 "date": "2026-11-23T20:25:43+00:00",
-"summary": "Marine organic aerosols reflect ecosystem variability from phytoplankton functional types to micronekton Emmanuel Chevassus, Vaios Moschos, Kirsten N. Fossum, Lu Lei, Liz Coleman, Dagmar B. Stengel, David Nganga, Vignesh Prabhu, Wei Xu, Darius Ceburnis, Colin O'Dowd, and Jurgita Ovadnevaite Atmos. Chem. Phys., 26, 16719–16739, https://doi.org/10.5194/acp-26-16719-2026, 2026 The ocean is a major source of tiny airborne particles that can influence clouds and climate, but their biological controls remain poorly understood. Here, one year of measurements at Mace Head, Ireland, was combined with ocean biology and air-sea data. Sea spray particle formation was found to depend on plankton community, small marine animals, and the combined effects of season, wind, waves and temperature. These results call for mesocosm experiments to better represent sea spray.",
+"summary": "Marine organic aerosols remain a major source of uncertainty in aerosol cloud-climate interactions, in part because marine ecosystem structure and biological drivers are typically reduced to bulk chlorophyll- a . Here, a full year of high-resolution aerosol mass spectrometry measurements at Mace Head (west coast of Ireland) is combined with HYSPLIT air-masses exposure and gap-free phytoplankton functional type (PFT) fields to explore influences on primary marine organic aerosol (PMOA) and methanesulphonic acid (MSA). During the spring-summer diatom climax, PMOA correlates with dominant bloom taxa ( R =0.62–0.70) and micronekton ( R =0.55). Strong PFTs covariance, however, prevented robust attribution to a single species. Cross-entropy showed PMOA maxima at 0–2 d for bloom-forming taxa and micronekton at 14 d, consistent with early labile release and later lysis/grazing while MSA also showed lagged associations to both PFT and micronekton. Mechanical forcing was evaluated from source-region wave Reynolds number, whitecap coverage and bubble-plume penetration. Across the three selected case studies, PMOA reflected the balance between ecosystem state and air-sea transfer. Spring–summer 2018 case combined high sea-surface particulate organic carbon (POC) and nutrients drawdown with sufficient air-sea transfer; August 2018 had stronger forcing, but lower POC while August 2009 combined higher POC and the strongest air-sea transfer. These findings support considering ecosystem composition and nutrients alongside air-sea transfer when representing natural marine aerosols and motivate future research vessel campaigns and mesocosm experiments to explicitly manipulate PFT interactions.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16703-2026": {
@@ -11759,7 +11759,7 @@
 "link": "https://doi.org/10.5194/acp-26-16703-2026",
 "doi": "10.5194/acp-26-16703-2026",
 "date": "2026-11-23T20:25:43+00:00",
-"summary": "Intense concentric gravity waves from the stratosphere to the thermosphere and a massive red sprite outbreak triggered by severe thunderstorms south of the Himalayas Qinzeng Li, Jiyao Xu, Wei Yuan, Angel An, Shengyang Gu, Oscar A. van der Velde, Yajun Zhu, and Xiaolong Wei Atmos. Chem. Phys., 26, 16703–16718, https://doi.org/10.5194/acp-26-16703-2026, 2026 On 19 May 2022, a powerful thunderstorm outbreak south of the Himalayas produced both unusual high-altitude lightning and large atmospheric waves. Using satellite and ground-based observations, we tracked the waves over distances exceeding 3000 km. Some waves observed at the highest altitudes were likely generated by the breakdown of earlier waves. The results show how severe storms can affect atmospheric regions far above the weather systems that create them.",
+"summary": "Severe thunderstorms drive vertical coupling through electrical processes associated with transient luminous events (TLEs) and dynamical processes associated with atmospheric gravity waves (AGWs). On 19 May 2022, an exceptionally intense thunderstorm outbreak occurred over the northern Bay of Bengal–Himalayan foothill region. The storm was associated with more than 100 sprite-related events; secondary jets, ghosts, and concentric airglow ripples were also observed. This event represented the first large-scale detection from China of a massive red sprite outbreak. From a dynamical perspective, concentric gravity waves (CGWs) were observed from the stratosphere to the thermosphere using coordinated satellite and ground-based airglow observations. AIRS measurements revealed concentric wave structures in the stratosphere above the convective source region, while ground-based airglow imagers detected CGWs in the OH, OI 557.7 nm, and OI 630.0 nm emission layers. CGWs in the mesosphere and lower thermosphere (MLT) propagated northeastward for more than 3000 km, suggesting propagation within favorable MLT ducting structures. In contrast, thermospheric CGWs observed in the OI 630.0 nm emission exhibited horizontal phase speeds of 260–280 m s −1 . Reverse ray-tracing analysis indicates a preferred source region in the lower thermosphere, suggesting that these waves were likely secondary GWs generated by the dissipation and breaking of upward-propagating primary GWs. The asymmetric detectability of thermospheric CGWs may reflect Doppler-induced dissipation by thermospheric background winds. These observations provide a rare example of simultaneous electrical and dynamical coupling from the troposphere to the thermosphere during an extreme convective event.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16667-2026": {
@@ -11768,7 +11768,7 @@
 "link": "https://doi.org/10.5194/acp-26-16667-2026",
 "doi": "10.5194/acp-26-16667-2026",
 "date": "2026-11-23T20:25:43+00:00",
-"summary": "Tropical cyclone amplifies anthropogenic influences on aerosol-cloud interactions over the South China Sea Hengjia Ou, Mingfu Cai, Haichao Wang, Xue Ni, Shixin Mai, Qibin Sun, Baoling Liang, Kunpeng Chen, Tao Deng, Sun Jiaren, Shengzhen Zhou, and Jun Zhao Atmos. Chem. Phys., 26, 16667–16682, https://doi.org/10.5194/acp-26-16667-2026, 2026 This study investigates how tropical cyclones transport anthropogenic pollutants into the marine atmosphere, substantially increasing organic aerosol and enhancing secondary aerosol formation. These changes reduced bulk aerosol hygroscopicity despite enhanced organic aerosol hygroscopicity, weakening cloud condensation nuclei activity. However, higher aerosol number concentrations produced more and smaller cloud droplets, enhancing cloud reflectivity and suppressing warm-rain formation.",
+"summary": "Tropical cyclones can influence marine aerosol-cloud interactions by transporting continental anthropogenic pollutants over the ocean. However, this process and its impact remain poorly understood due to lack of direct measurements. Using shipborne measurements over the South China Sea (SCS) from 22 June to 5 July 2022, we investigated how TC Chaba altered aerosol physicochemical properties and cloud microphysical responses in its western region by modifying atmospheric circulation. As TC Chaba developed, its circulation altered regional transport pathways, shifting air masses from local marine origin to long-range transport from the Indochina Peninsula and causing pronounced increases in non-refractory submicron particulate matter (NR-PM 1 ) concentrations. Organic aerosol (OA) increased from 14.6 % to 44.9 % of NR-PM 1 after the influence of TC Chaba, mainly due to enhanced oxygenated OA (OOA) from long-range transport together with enhanced local heterogeneous oxidation, as indicated by the higher OA oxidation state and increasing OOA concentrations with O x and relative humidity. These changes led to a ∼ 60 % decrease in aerosol hygroscopicity ( κ ), while an ∼ 27 % increase in κ OA , which outweighed the modest particle size increase and resulted in a lower bulk activation ratio. Furthermore, CCN concentrations increased by up to sixfold because of enhanced aerosol concentrations. Combined observations and cloud parcel simulations indicate that the aerosol perturbations decreased cloud droplet effective radius by 11 %–37 % and increased the autoconversion radius by 6 %–26 %, enhancing cloud reflectivity and suppressing warm-rain formation. Satellite observations further confirmed smaller cloud droplets. These results demonstrate a strong TC influence on marine cloud microphysics and radiative effects.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.5194/acp-26-16683-2026": {
@@ -11777,7 +11777,7 @@
 "link": "https://doi.org/10.5194/acp-26-16683-2026",
 "doi": "10.5194/acp-26-16683-2026",
 "date": "2026-11-23T20:25:43+00:00",
-"summary": "Increasing and widespread deposition of trifluoroacetic acid from global emissions of HFO-1234yf in mobile-air conditioning Lucy Hart, Ryan Hossaini, Oliver Wild, Crispin Halsall, Martin K. Vollmer, and David Sherry Atmos. Chem. Phys., 26, 16683–16702, https://doi.org/10.5194/acp-26-16683-2026, 2026 HFO-1234yf is increasingly used in cars because of its low climate impact but once emitted to the atmosphere it forms trifluoroacetic acid (TFA), a chemical that remains on Earth permanently. We present the first global emission inventory of HFO-1234yf from cars and compare our results to atmospheric measurements. Using an atmospheric chemistry model, we found that TFA produced from this source is rapidly growing and most TFA is deposited outside of the region HFO-1234yf was emitted from.",
+"summary": "HFO-1234yf is an emerging low global warming potential refrigerant with increasing emissions, especially from mobile air-conditioning (MACs), that are poorly constrained. It is oxidised in the atmosphere to form trifluoroacetic acid (TFA), a persistent, mobile, and widespread pollutant. Despite growing concerns around TFA accumulation in the environment, the contribution of HFO-1234yf to its global deposition is not known. Here, we present the first global bottom-up emissions inventory for HFO-1234yf from passenger vehicles. We use a chemical transport model to calculate the global TFA budget from these emissions and quantify source–receptor relationships from idealised emission scenarios. The magnitude and trend in HFO-1234yf emissions from North-West Europe are in close agreement with top-down assessments. Using our derived emissions, the model reproduces surface HFO-1234yf observations from the AGAGE network reasonably well. A sensitivity study using estimates of fugitive emissions from HFO-1234yf production improves agreement, particularly at Gosan, South Korea, where the model underestimates observations. We find that global TFA deposition from HFO-1234yf in MACs has increased from 0.078 (0.050–0.17) Gg yr −1 in 2014 to 3.5 (1.6-6.4) Gg yr −1 in 2024, with 75 % of cumulative HFO-1234yf emissions coming from Europe. A large proportion of TFA from HFO-1234yf (54 %) is deposited in oceans. Source–receptor analysis shows that most (86 %–97 %) TFA deposition occurs outside of the original HFO-1234yf emission region. All regions except Europe are net atmospheric importers of TFA, underscoring the importance of international efforts to reduce future TFA pollution.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "doi:10.1038/d41586-026-03825-2": {
@@ -11849,7 +11849,7 @@
 "link": "https://www.nature.com/articles/s41612-026-01594-3",
 "doi": "10.1038/s41612-026-01594-3",
 "date": "2026-11-23T00:00:00+00:00",
-"summary": "npj Climate and Atmospheric Science, Published online: 23 November 2026; doi:10.1038/s41612-026-01594-3 Temporal-spatial evolution of North American cold air outbreaks and associated atmospheric circulation",
+"summary": "Abstract Cold Air Outbreaks (CAOs) are among the most impactful winter weather extremes across North America, producing severe societal and economic consequences. Using ERA5 daily reanalysis data for January and February 1979–2026 and an objective CAO index based on temperature anomaly magnitude and spatial extent, we identify 510 North American CAO days, grouped into 58 independent events. Event-centered composites examine spatial evolution, objective association with Alaskan Ridge blocking, vertical circulation structure, and lower-tropospheric horizontal temperature advection. Analyses show CAOs occur most frequently along a space-time corridor extending from central Canada through the northern Great Plains, Great Lakes region, and to the eastern United States. Atmospheric circulation anomalies associated with CAOs develop approximately eight days before peak intensity and persist for about 15 days. Using a Tibaldi–Molteni blocking criterion, 29 of the 58 events (50%) are classified as Alaskan Ridge-associated, demonstrating that Alaskan blocking is an important but non-universal circulation pattern. Among Alaskan-Ridge-associated events, the circulation anomalies exhibit an approximately equivalent-barotropic structure through the troposphere. A wave-1-like lower-stratospheric anomaly develops near the mature stage of the composite event, after the tropospheric ridge–trough pattern has become established. This temporal ordering does not support a simple top-down interpretation in which a preceding stratospheric disturbance initiates the composite CAO. North American CAOs are influenced by episodic large-scale atmospheric circulation variability and therefore remain an important source of winter weather extremes even in a warming climate.",
 "first_seen": "2026-11-25T05:16:26.480280+00:00"
 },
 "url:https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast": {
@@ -12013,5 +12013,860 @@
 "date": "2026-11-20T00:00:00+00:00",
 "summary": "Abstract Megaripples and Transverse Aeolian Ridges (TARs) are distinct aeolian bedforms that are just as widespread as ripples and dunes across Mars, yet their propensity for mobility has been poorly understood. This investigation presents results related to megaripple and TAR dynamics, context, and their relations to broader aeolian systems, which were classified based on their scale, albedo, and relative stratigraphic position. From 97 global sites surveyed using long‐baseline (up to 8 Mars years) HiRISE images, over half were determined to be active and/or migrating, most notably in the north polar erg, Syrtis Major, Hellespontus, and Valles Marineris. These bedforms had wavelengths ranging from 5 to 12 m, heights of 0.5–1.2 m, and migrated between 0.02 and 0.30 myr −1 ; for context, adjacent dunes migrate slightly faster (0.1–0.8 myr −1 ), but have sand fluxes two orders of magnitude higher. These detections were exclusively within active sand corridors, either on the upwind edges of dune fields or within inter‐erg areas near topographic constrictions, but always with an adequate supply of mobile large ripples. Increased mobility was found to correlate with northward latitude and lower elevations, consistent with greater atmospheric pressure and wind energy. Regional or localized slopes may also serve to enhance megaripple migration, resulting in spatial heterogeneity at the dune field scale. Although seven sites hosting active TARs were found, these were rare, as most were static, including within otherwise high‐sand‐flux areas. The lack of nearby mobile sandy bedforms may lead to long‐term stabilization and lithification. Furthermore, induration or high‐latitude cryospheric processes may provide pathways to paleo‐megaripple formation.",
 "first_seen": "2026-11-25T05:16:37.518539+00:00"
+},
+"url:https://phys.org/news/2026-11-thailand-high-arsenic-river-shellfish.html": {
+"source": "Phys.org – Environment",
+"title": "Thailand tests find high lead, arsenic in river shellfish",
+"link": "https://phys.org/news/2026-11-thailand-high-arsenic-river-shellfish.html",
+"doi": "",
+"date": "2026-11-26T17:00:01+00:00",
+"summary": "Thai authorities have found dangerous levels of arsenic and lead in shellfish and other species in rivers contaminated by suspected mining pollution from neighboring Myanmar, an official said Thursday. Environment",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-wildfires-raze-homes-displace-wildlife.html": {
+"source": "Phys.org – Environment",
+"title": "Wildfires raze homes, displace wildlife on Australian island",
+"link": "https://phys.org/news/2026-11-wildfires-raze-homes-displace-wildlife.html",
+"doi": "",
+"date": "2026-11-26T10:20:01+00:00",
+"summary": "Wildfires have forced road closures, displaced animals and razed homes while engulfing over 10% of Australia's southeastern Flinders Island, emergency services said Thursday. Environment",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-peatlands-legacy.html": {
+"source": "Phys.org – Environment",
+"title": "Draining peatlands leaves a long legacy of warming",
+"link": "https://phys.org/news/2026-11-peatlands-legacy.html",
+"doi": "",
+"date": "2026-11-25T22:00:08+00:00",
+"summary": "Peatland ecosystems like bogs and swamps perform an important balancing act: Their vegetation takes up huge amounts of carbon dioxide, while their soil microbes produce methane. Although methane is a potent greenhouse gas, peatlands exhibit a net cooling effect on the planet because of the sheer scale of carbon dioxide they remove from the atmosphere, which has amounted to hundreds of gigatons globally over thousands of years. Earth Sciences",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-marine-life-atmospheric-century.html": {
+"source": "Phys.org – Environment",
+"title": "Without marine life, atmospheric CO₂ would shoot up by up to 65% by the end of the century",
+"link": "https://phys.org/news/2026-11-marine-life-atmospheric-century.html",
+"doi": "",
+"date": "2026-11-25T19:30:01+00:00",
+"summary": "Without marine organisms transporting carbon into the deep ocean, the accumulation of carbon dioxide in the atmosphere would be drastically higher in the year 2100, reaching levels between 35% and 65% higher than projected. This is one of the main conclusions of the new policy brief developed within the framework of the European OceanICU project, which was presented at the United Nations Climate Change Conference (COP31) in Türkiye. Environment",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-global-ocean-iodine-wont-offset.html": {
+"source": "Phys.org – Environment",
+"title": "Global ocean iodine won't offset future air pollution, study warns",
+"link": "https://phys.org/news/2026-11-global-ocean-iodine-wont-offset.html",
+"doi": "",
+"date": "2026-11-25T19:00:06+00:00",
+"summary": "The world's oceans will not play the role of scrubbing harmful ozone pollution from the atmosphere as the planet warms in the way that was expected, new research suggests. Earth Sciences",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-companies-accurate-extreme-weather.html": {
+"source": "Phys.org – Environment",
+"title": "Companies are getting less accurate data on extreme weather just when they need it the most",
+"link": "https://phys.org/news/2026-11-companies-accurate-extreme-weather.html",
+"doi": "",
+"date": "2026-11-25T16:00:06+00:00",
+"summary": "The extreme weather fueled by an unusually intense El Niño has caused flooding in low-lying Florida communities, hammered the California coast and upended hurricane patterns—just to name a few examples. Environment",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-california-braces-threat-huge-tides.html": {
+"source": "Phys.org – Environment",
+"title": "California braces for flooding threat from huge tides, El Niño",
+"link": "https://phys.org/news/2026-11-california-braces-threat-huge-tides.html",
+"doi": "",
+"date": "2026-11-25T11:40:04+00:00",
+"summary": "Californians are preparing for a confluence of exceptionally high tides and El Niño-fueled weather that threatens coastal areas with extreme flooding during the busiest U.S. travel week of the year. Environment",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/": {
+"source": "Ars Technica – Science",
+"title": "Draining peatlands is responsible for a few percent of our global warming",
+"link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+"doi": "",
+"date": "2026-11-26T12:15:42+00:00",
+"summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated. Science carbon cycle greenhouse gas emissions wetlands",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://www.newscientist.com/article/2600784-new-basic-income-trial-in-peru-aims-to-prove-rainforest-protection-merits/?utm_campaign=RSS|NSNS&utm_content=environment&utm_medium=RSS&utm_source=NSNS": {
+"source": "New Scientist – Environment",
+"title": "Basic income trial in Peru aims to prove rainforest protection merits",
+"link": "https://www.newscientist.com/article/2600784-new-basic-income-trial-in-peru-aims-to-prove-rainforest-protection-merits/?utm_campaign=RSS|NSNS&utm_content=environment&utm_medium=RSS&utm_source=NSNS",
+"doi": "",
+"date": "2026-11-25T17:00:00+00:00",
+"summary": "A trial starting in 2027 will see Indigenous people in the Amazon given no-strings cash payments in the hopes of reducing deforestation Ecology Environment Conservation The Amazon rainforest",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://www.newscientist.com/video/2599464-the-super-el-nino-reshaping-global-weather/?utm_campaign=RSS|NSNS&utm_content=environment&utm_medium=RSS&utm_source=NSNS": {
+"source": "New Scientist – Environment",
+"title": "The super El Niño reshaping global weather",
+"link": "https://www.newscientist.com/video/2599464-the-super-el-nino-reshaping-global-weather/?utm_campaign=RSS|NSNS&utm_content=environment&utm_medium=RSS&utm_source=NSNS",
+"doi": "",
+"date": "2026-11-18T18:00:00+00:00",
+"summary": "Climate change Environment El Niño",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://bigthink.com/starts-with-a-bang/voyager-cosmic-map-wrong/": {
+"source": "Big Think",
+"title": "Voyager’s cosmic map of Earth’s location: Cute, but wrong",
+"link": "https://bigthink.com/starts-with-a-bang/voyager-cosmic-map-wrong/",
+"doi": "",
+"date": "2026-11-25T07:00:00+00:00",
+"summary": "Here in late 2026, an incredible milestone has been reached: the Voyager 1 spacecraft — humanity’s most distant spacecraft from Earth — has finally passed a distance of one light-day from us. Along with its twin, Voyager 2, these two spacecraft have left the confines of the Solar System and now traverse interstellar space, freely floating through the interstellar medium. Eventually, their radioactive sources will decay away enough that they’ll become entirely inoperable, but there’s a chance that someday, in the far future, an alien species will encounter and recover one or both of these ancient artifacts: humanity’s first foray into the Universe beyond our own Solar System. Aboard each of these two Voyagers is a special message intended for anyone who’d find them, whether in the near or distant future: the Voyager golden record . Containing songs, images, and sounds of Earth, it was designed to be an information-laden cosmic time capsule, capable of being easily deciphered by any intelligent alien species to come upon it. It was meant as an introduction to Earth and humanity, with the vision of serving as a cultural ambassador for our planet. Emblazoned on the cover of the record are a series of diagrams , including one that we thought was incredibly important at the time: a map of Earth’s location in the galaxy, as determined through the mapping of 14 radio-loud pulsars. Although the method used to locate Earth was, for its time, a very clever one, we now understand that it’s inherently flawed. Anyone who receives it will most likely be unable to track down where our planet is from the included information, making it a cute, but wrongheaded, artifact from our cosmic infancy. This color-coded version of the pulsar map to the 14 pulsars chosen for the Voyager golden records displays their relative distances and pulse timing periods to 12 significant figures, with the fastest included pulsar taking right around 30 milliseconds to complete a full 360 degree rotation but the slowest rotators taking more than a second to do so. The pulsars can be seen to occupy different directions in space at different distances. Credit : Sam W/Simple Desktops The whole point of the golden record was that it would serve as sort of a “time capsule” of humanity and Earth: an attempt to reach out to whomever might be out there in the Universe and share with them a little bit about what our world is like and what humanity — at its best — is all about. Carl Sagan, cocreator of the golden record, put it as follows: “We [are] a species endowed with hope and perseverance, at least a little intelligence, substantial generosity and a palpable zest to make contact with the cosmos.” Today, despite our stumbles and missteps in the 49 years that have ensued since the launch of the dual Voyager spacecraft, all of these things remain true. At the time, pulsars were a relatively new discovery. The very first one had only been discovered back in 1967, when then-graduate student Jocelyn Bell (later Jocelyn Bell Burnell ), while surveying the sky for quasars, instead found a surprising signal on her chart-recorder papers that she described as a “bit of scruff.” After digging into that signal, she found that it was a radio emitter that pulsed with great regularity. Initially named LGM-1, for “Little Green Man 1,” it was soon determined not to be a signal of alien origin at all, but rather a rapidly rotating neutron star that emitted radio pulses. Today, that neutron star is known as our first pulsar, and has the less-poetic name PSR B1919+21 . This image shows Jocelyn Bell (now Jocelyn Bell Burnell) at the Mullard Radio Astronomy Observatory alongside the telescope used to collect the data in which she identified the first known pulsar: a bright, regular radio source that is now known to correspond to a highly magnetized, rapidly spinning neutron star. This photo was taken one year later in 1968. Credit : Mullard Radio Astronomy Observatory Bell Burnell herself was the one who showed that this was unlikely to be a signal from intelligent extraterrestrials, when she continued her work and found a similar signal originating from a different part of the sky. Thomas Gold suggested the origin of pulsars should be rapidly rotating neutron stars the year after they were first discovered, in 1968. Originally discovered in the radio band, pulsars were swiftly detected over a wide variety of wavelengths across the electromagnetic spectrum. The first optical pulsar was discovered in January of 1969, and in May of 1969 the first X-ray pulsar was discovered in the heart of the Crab Nebula: a pulsar that was known to emit radio waves since the year prior. By the time the Voyager spacecraft were launched in 1977, there were a cumulative 149 pulsars that had been discovered, and pulsar evolution had also been detected. In late 1968, the Crab pulsar’s period was found to slowly increase, meaning that the pulsar was spinning down over time. In 1969, the first “glitch” in a pulsar system was detected: an instantaneous change in the pulse period of a pulsar. Pulse period decay was identified in many more pulsars, and as of 1977, the period of the known pulsars ranged from a little over 1 second to as fast as 33 pulses per second. This computer simulation of a neutron star shows charged particles being whipped around by a neutron star’s extraordinarily strong electric and magnetic fields. It is possible that a neutron star has formed within the remnant of SN 1987A, but the region is still too dusty and gas-rich for the “pulses” to seep out. Neutron star surfaces are at similar temperatures to white dwarf interiors: typically at several hundred thousand kelvin. Credit : NASA’s Goddard Space Flight Center We also had a rudimentary picture — just ten years after their initial discovery — for how these pulsars worked. The idea was that a neutron star was spinning, and that a neutron star itself isn’t just a ball of neutrons, but rather is a core of dense neutrons surrounded by a thin shell of atomic nuclei, including a mix of protons and neutrons combined, and much lighter electrons as well. As the neutron star spins, the much heavier protons and the much lighter electrons separate, and wind up with slightly different distributions across the neutron star’s outer layers and surface. Whenever you have a set of electric charges in motion, they’re going to produce a magnetic field. The more charges you have, the greater a charge separation you have, the greater the charge density you have, and the faster the charges move, the stronger the generated magnetic field will be. Whereas the Earth has a magnetic field of about 1 Gauss, the strongest permanent magnets we can generate have a field strength of around 14,000 Gauss, and the strongest laboratory electromagnets have a magnitude of around 300,000-500,000 Gauss, the strength of a rotating neutron star’s magnetic field can routinely reach or exceed 100 trillion Gauss (10 Gauss): incredibly strong magnetic fields. The idea is that these fields then accelerate material, such as electrons, around them, and the accelerated material produces “blips” of radiation each time the pulsar completes one revolution. This image shows the illustration of a massive neutron star, along with the distorted gravitational effects an observer might see if they had the capability of viewing this neutron star at such a close distance. While neutron stars are famous for pulsing, not every neutron star is a pulsar. The fastest pulsars, known as millisecond pulsars, rotate at more than 100 times per second, with the current record holder completing a whopping 766 rotations each second. Credit : Daniel Molybdenum/flickr and raphael.concorde/Wikimedia Commons With this picture in mind, it made a lot of sense to choose several among the known pulsars and map the Earth’s location relative to them, with the relative distance to each of those pulsars noted in the diagram. This “pulsar map” of our location was an attempt to create a reference frame that an extraterrestrial species would instantly be able to recognize. Sure, there were other choices we could have made, but they’d all have drawbacks. We could have shown aliens our night sky, but the relative positions of stars in the sky change swiftly: over thousands of years. Voyager’s map would no longer look like our skies by the time anyone received them. We could have mapped out the intrinsically brightest, more distant stars, but the brightest ones are the shortest-lived, and so there’s a good chance that many of them would no longer be present by the time anyone received them. We could have mapped out our position relative to the galactic center or the nearest spiral arm, but we both rotate around the galaxy and drift relative to the arm-and-spur features within our galaxy; such a map would have made it difficult for an alien species to reconstruct where we actually are now by the time we received such a message. At the time, it made sense to go with a map of pulsars: a new species of regularly beating stellar remnants that remain at a relatively large, constant distance from us (at least over hundred thousand-to-million year timescales), and whose pulse frequency would only change by small amounts over time. In theory, these pulsars could have remained relatively stable for up to tens of millions of years. This diagram contains an explainer of the different images emblazoned on the cover of the Voyager golden record. At lower left is the pulsar map, where the distances and orientations of the 14 included pulsars are shown, and a binary signal along each line encoded the pulsar’s pulse period as of 1977. Credit : NASA/Jet Propulsion Lab The pulsars that were chosen were chosen judiciously. First, there were 14 of them that were selected: all pulsars that were among the most regular and slowest-decaying of the known ones at the time. Second, they came in a variety of distances and from a variety of directions: close to the galactic center, on the opposite side of the sky from the galactic center, across the plane of the Milky Way, and some even in the galactic halo, with distances ranging from just a few thousand light-years away to many tens-of-thousands of light-years away. And third, their pulse period was encoded into the diagram, along with the directions and relative distances of those pulsars. The idea was that anyone, even after millions of years, who found the map would be able to identify those same pulsars, figure out what star they were pointing to, and would be pointed in the direction of our Sun and Solar System. That was the intent of the pulsar map. Unfortunately, now that we live here in 2026 instead of 1977, we know that there’s an enormous amount that’s wrong with sending our pulsar map to aliens and expecting that they’d be able to identify where we are based on the information encoded in that map. Here are the biggest flaws with the information we provided. This side-by-side set of images shows a series of views of the Crab Pulsar and its surrounding environment taken by NASA’s Chandra X-ray telescope (left) and NASA’s Hubble space telescope (right) over the 6-month period from November 2000 to April 2001. Formed from a star that went supernova in 1054, the Crab Pulsar is one of the youngest known neutron stars, and the ringed feature around the pulsar was only discovered due to Chandra’s then-revolutionary X-ray capabilities. Credits : NASA/CXC/ASU/J.Hester et al.; NASA/HST/ASU/J.Hester et al.; stevebd1/YouTube 1.) Pulsars, and neutron stars in general, are far more common and numerous than anyone realized back in 1977 . There are approximately 400 billion stars in the Milky Way itself, and about 1 in 800 out of all the stars that are ever born are massive enough that they’ll ultimately die in a core-collapse supernova. While a small fraction of those will produce black holes, the overwhelming majority instead result in the production of neutron stars. That means there are likely between 400 and 500 million neutron stars in the Milky Way today that have arisen from these stellar remnants, and around 50 to 100 million of those will be pulsars for somebody, depending on their line-of-sight. Rather than providing a map of rare objects that can be identified by anyone, we’ve given a map of fourteen particular pieces of hay within an enormous haystack. Only, there are only around 1-to-4 million pieces of hay in an actual haystack, versus more than an order of magnitude more pulsars in our actual Milky Way. Given that the periods of these pulsars are changing, and that these particular pulsars are the types that are prone to glitches, it’s unlikely that someone finding our map will be able to even identify which pulsars we were intending to indicate on the map itself. With a very strong surrounding magnetic field, pulsars accelerate matter around them and collimate them in jets that get emitted around two poles. As the neutron star rotates, the emitted jets rotate, and each time one of the jets crosses your line-of-sight, you observe a pulse of emissions: typically at radio frequencies, but often also at other frequencies as well. Credit : J. van Leeuwen 2.) Pulsars don’t emit their pulses omnidirectionally, but only along a particular line-of-sight, so what appears to pulse for one observer doesn’t pulse for everyone . We used to not know this, but pulsars don’t appear to pulse for everyone. A pulsar has a magnetic field in a similar fashion to how a planet like Earth has a magnetic field: with two main “poles” to it where magnetic fields lines enter and leave the surface of the stellar remnant. As the neutron star rotates, these two poles sweep around and accelerate particles within them, generating electromagnetic waves — or forms of light, including radio light — that can be perceived as pulses by anyone who’s lucky enough to receive them. But we only exist in one location in spacetime, so we only receive a series of pulses from the select few pulsars that happen to be lined up with us. Any observer in a different location is unlikely to see the same pulsars that we do; they will have a different set of neutron stars that appear to pulse for them, and given that we may only be seeing fewer than 1-in-10,000 actual pulsars at any given time, it’s possible that anyone who picks up Voyager 1 or 2 won’t even recognize a single one of the pulsars that we’re pointing out. This most up-to-date view of the nebula MSH 15-52 in X-ray light comes courtesy of NASA’s Chandra X-ray Observatory. Note that the pulsar, at the center of the “base” of the hand, is offset from the supernova remnant itself, near the top-right of the image, indicating that the neutron star has been blown aside with an incredibly rapid kick at about 5% of the speed of light. With this rapid motion, even without a companion, its orientation relative to any particular star will change over time, meaning that it will “pulse” for a different set of observers after a finite amount of time passes. Credit : NASA/CXC/Univ. of Hong Kong/S. Zhang et al. 3.) Pulsars precess over time, so that pulsars don’t appear to “pulse” for the same observer indefinitely, and instead turn on and turn off for observers over time . This one is an even trickier part of the problem: many pulsars have binary companions, in the form of stars, black holes, planets, other neutron stars, or white dwarfs. The gravitational influence of a companion can cause the plane of the pulsar’s orbit, as well as the plane of the pulsar’s rotation, to change over time. That means that pulsars that “pulse” for us today may rotate out of our line-of-sight in the future (some have already done this ), whereas pulsars that are currently out of our line-of-sight may someday rotate into it. This makes it exceedingly unlikely that even just a million years from now, the same set of pulsars will be pulsing from the perspective of an observer on Earth, or for any observer at any location in the Universe. As pulsars turn on-and-off, their intrinsic properties like their period or their magnetic field aren’t necessarily changing, but rather their orientation of where they point gradually changes over time. As such, these pulsars included on the pulsar map very likely will no longer be pointing at Earth by the time someone receives them. In fact, it’s eminently likely that not a single one of them will still be pointing at us. Using the combined data from NASA’s Chandra (X-ray), Hubble (visible light), and IXPE (X-ray polarization, in light blue), pulsar winds coming off of the Vela pulsar, a neutron star just ~10,000 years old, can easily be seen. These jets, if the pulsar has a binary companion (Vela has a high-mass one), can damage or even potentially destroy the companion star. Meanwhile, the pulsar itself may have a lifetime where it’s actively pulsing of only around a million years or so under conventional conditions. Credits : X-ray: (IXPE) NASA/MSFC/Fei Xie & (Chandra) NASA/CXC/SAO; Optical: NASA/STScI Hubble/Chandra processing by Judy Schmidt; Hubble/Chandra/IXPE processing & compositing by NASA/CXC/SAO/Kimberly Arcand & Nancy Wolk 4.) As pulsars evolve over time, they turn off; most older neutron stars go quiet due to either a reduction in their magnetic field or a spin-down in their rate of rotation . And finally, not all neutron stars are thought to be pulsars at all. It’s thought that a neutron star needs to be a combination of a fast enough rotator and to possess a strong enough magnetic field in order for it to pulse at all. Although there are slow pulsars, they are all thought to have powerful magnetic fields, and a powerful magnetic field on its own is not a guarantee that you’ll get a pulsar, as some strongly magnetized neutron stars become magnetars instead. As neutron stars evolve, they tend to spin down and slow their rotation, and their magnetic fields can also weaken with time. Therefore, the neutron stars that are pulsing today may not necessarily continue pulsing far into the future. The timescale for this can be long: up to hundreds of millions of years for the longest-lived pulsars. However, because they weren’t known in 1977, none of the 14 pulsars included on the Voyager golden records are this long-lived species of pulsar at all! It’s again quite likely that after just millions of years, or perhaps even a shorter period of time, these pulsars will turn off and cease pulsing entirely: not just for us, but for everyone. This map, therefore, represents a mere snapshot of what was pulsing and pointing at us back in 1977. Decades, centuries, millennia, or aeons from now, that will not necessarily be the case any longer. In 1977, NASA’s Voyager 1 and 2 spacecraft began their pioneering journey across the Solar System to visit the giant outer planets. Now, the Voyagers are hurtling through unexplored territory on their road trip beyond our Solar System. Along the way, they are measuring the interstellar medium, the mysterious environment between stars that is filled with the debris from long-dead stars. Voyager 1 became the most distant spacecraft from Earth in 1998, and no other spacecraft launched, to date, has a chance of catching it. Credit : NASA, ESA, and G. Bacon When the Voyager spacecraft launched, we had only known about pulsars for a decade; they were brand new, exciting, and represented the cutting edge of what we knew about in the field of astronomy. But in the here and now, more than a quarter of the way through the 21st century, we know that there are better, rarer objects out there. A sub-class of pulsars, millisecond pulsars, were only first discovered in 1982: pulsars that are much more stable and are much faster rotators. There are binary pulsars, or systems where a pulsar and another neutron star orbit one another, with predictable inspiral timetables that can be detected via sensitive enough gravitational wave detectors, rather than needing to be along a pulsar’s line-of-sight. And instead of 149 known pulsars, our pulsar counts have increased over time: to 558 in the 1993 catalogue, to 1297 in the 2003 catalogue, to 2267 in the 2013 catalogue, to 3473 in the 2024 catalogue and, in real time at the ATNF pulsar catalogue , up to 4503 today. The study of pulsar evolution through timing , through glitches, and through pulse profile changes have all greatly advanced our understanding of these objects. They’ve taught us that someone receiving Voyager’s pulsar map would likely think it was a cute attempt at a map the way an adult viewing a child’s drawing of their house relative to Earth might find it cute, rather than fulfilling the desire that Frank Drake expressed about the pulsar map itself. “We needed to put something on the Voyager that said where it came from, and how long it was traveling… There was a magic about pulsars … no other things in the sky had such labels on them. Each one had its own distinct pulsing frequency, so it could be identified by anybody, including other creatures after a long period of time and far, far away.” Of course, its lack of utility also rules out the interpretation that we sent out a dangerous map that will lead to our own destruction . The truth is sobering and humbling: what appears to be the cutting edge of science to us, in the here-and-now, may indeed be something we look back on in a generation or two as an incredibly naive perspective on reality. This is not a flaw, however; it is a feature of science. As our knowledge and capabilities improve, it is a call for us to redouble our commitment to understanding, exploring, and striving for new frontiers in the cosmos. This article Voyager’s cosmic map of Earth’s location: Cute, but wrong is featured on Big Think .",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://www.popsci.com/environment/worlds-fastest-animal-peregeine-falcon-gain-habitat/": {
+"source": "Popular Science",
+"title": "World’s fastest animal may gain habitat by 2080",
+"link": "https://www.popsci.com/environment/worlds-fastest-animal-peregeine-falcon-gain-habitat/",
+"doi": "",
+"date": "2026-11-26T05:00:00+00:00",
+"summary": "But that doesn’t automatically mean its population will grow. The post World’s fastest animal may gain habitat by 2080 appeared first on Popular Science . Environment Animals Biology Birds Climate Change Science Wildlife",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/": {
+"source": "Inside Climate News",
+"title": "After Detonating Five Tons of Lead Explosives in Iowa, Army Says Health Risks Are ‘Close to Zero’",
+"link": "https://insideclimatenews.org/news/25112026/iowa-lead-explosives-health-risks-close-to-zero/",
+"doi": "",
+"date": "2026-11-25T21:24:20+00:00",
+"summary": "The U.S. Army detonated five tons of degraded lead azide explosives in southeast Iowa this morning, following delays and legal challenges over concerns about toxic dust generated by the blast. Shortly after 9 a.m. local time, a series of explosions ignited the bomb-making material, sending two plumes into the air that were visible for miles. […] Justice & Health Environmental Justice Health Iowa lead U.S. Army",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://insideclimatenews.org/news/25112026/a-disappointing-un-climate-summit-concludes-with-little-action-on-food-systems/": {
+"source": "Inside Climate News",
+"title": "A Disappointing UN Climate Summit Concludes With Little Action on Food Systems",
+"link": "https://insideclimatenews.org/news/25112026/a-disappointing-un-climate-summit-concludes-with-little-action-on-food-systems/",
+"doi": "",
+"date": "2026-11-25T14:12:51+00:00",
+"summary": "The first day of the United Nations’ COP31 climate talks in Turkey focused on the nexus of food, agriculture and health, setting a hopeful tone for negotiators and advocacy groups that have been pushing to make food systems a bigger priority at the annual gatherings. Even before the talks wrapped up Sunday, those hopes had […] Justice & Health Agriculture Climate Change Climate Talks COP31 Methane U.N. Food and Agriculture Organization United Nations",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://insideclimatenews.org/news/25112026/joint-base-andrews-jet-fuel-spill-cleanup-golf-course-renovation/": {
+"source": "Inside Climate News",
+"title": "Maryland Regulators, Air Force Squabble Over Fuel Spill and Golf Course at Joint Base Andrews",
+"link": "https://insideclimatenews.org/news/25112026/joint-base-andrews-jet-fuel-spill-cleanup-golf-course-renovation/",
+"doi": "",
+"date": "2026-11-25T09:55:00+00:00",
+"summary": "Recent testing at Joint Base Andrews found a thick layer of jet fuel beneath the airfield, eight months after a spill was detected near Piscataway Creek. But the Air Force and Maryland environmental regulators remain at odds over basic facts of the spill, such as how much fuel was leaked and whether the base skipped […] Justice & Health golf golf course golf courses Jet Fuel Joint Base Andrews Maryland Piscataway Creek Trump Administration U.S. Military water contamination water pollution",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://cen.acs.org/acs-news/comment-tips-navigating-todays-job/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen": {
+"source": "C&EN",
+"title": "Comment: Tips for navigating today’s job search environment",
+"link": "https://cen.acs.org/acs-news/comment-tips-navigating-todays-job/104/web/2026/11?sc=230901_cenrssfeed_eng_latestnewsrss_cen",
+"doi": "",
+"date": "2026-11-25T14:00:02+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/s41558-026-02804-9": {
+"source": "Nature Climate Change",
+"title": "Adapting minds to live with climate change",
+"link": "https://www.nature.com/articles/s41558-026-02804-9",
+"doi": "10.1038/s41558-026-02804-9",
+"date": "2026-11-25T00:00:00+00:00",
+"summary": "Nature Climate Change, Published online: 25 November 2026; doi:10.1038/s41558-026-02804-9 Climate adaptation psychology is fragmented across psychology’s subfields and neighbouring social sciences. This Perspective consolidates the scattered research into a four-layer framework (exposures, mediators, responses and outcomes) and closes with clinical implications and a research agenda.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/d41586-026-03828-z": {
+"source": "Nature",
+"title": "Orangutans face bleak future after Indonesia’s devastating wildfires",
+"link": "https://www.nature.com/articles/d41586-026-03828-z",
+"doi": "10.1038/d41586-026-03828-z",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03828-z The super El Niño intensified Indonesian fires, which ravaged the habitat of the critically endangered Bornean orangutan.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/s41586-026-11339-0": {
+"source": "Nature",
+"title": "An enduring climatic burden from past peatland drainage",
+"link": "https://www.nature.com/articles/s41586-026-11339-0",
+"doi": "10.1038/s41586-026-11339-0",
+"date": "2026-11-25T00:00:00+00:00",
+"summary": "Nature, Published online: 25 November 2026; doi:10.1038/s41586-026-11339-0 Reconstruction of radiative forcing resulting from worldwide peatland drainage over the past two centuries reveals a persistent net warming effect caused by the dominant forcing of drainage-induced CO2 emissions over that of avoided CH4 emissions.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/s41586-026-11354-1": {
+"source": "Nature",
+"title": "Disturbances and climate drive tree elevational shifts",
+"link": "https://www.nature.com/articles/s41586-026-11354-1",
+"doi": "10.1038/s41586-026-11354-1",
+"date": "2026-11-25T00:00:00+00:00",
+"summary": "Abstract Climate change and disturbances are reshaping forest ecosystems worldwide 1–4 , yet their combined effects on species redistribution remain poorly understood. Here we analyse repeated measurements from 44,368 forest inventory plots spanning 1999–2025, with an average remeasurement interval of 10 years, to examine how climate and natural disturbances jointly influence the elevational redistribution of tree species across the western USA. We show that climate warming increased sapling abundance, whereas increasing drought frequency and recent natural disturbances (fire, insect outbreaks and disease) reduced tree abundance, particularly among adult trees. By contrast, legacy fire was associated with increased sapling abundance, with stronger positive responses in angiosperms than in gymnosperms. These influences were distributed unevenly across species’ elevational ranges: upper portions of species’ ranges generally experienced stronger warming, greater increases in drought frequency and more disturbance activity than lower portions, creating elevational asymmetries in stress and recovery. These elevational asymmetries were associated with more pronounced downslope shifts in basal area centres, probably reflecting disturbance effects on larger trees. By contrast, stem abundance centres showed more divergent shifts, consistent with sapling responses to both climate change and disturbance. Our findings reveal contrasting demographic responses to climate change and natural disturbances that shape the elevational redistribution of different species, with potential consequences for forest composition, resilience and long-term stability.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1126/sciadv.aed1661": {
+"source": "Science Advances",
+"title": "Surface-passivated high-entropy oxide-derived catalysts for stable dry reforming of methane",
+"link": "https://www.science.org/doi/abs/10.1126/sciadv.aed1661?af=R",
+"doi": "10.1126/sciadv.aed1661",
+"date": "2026-11-25T08:00:00+00:00",
+"summary": "Dry reforming of methane (DRM) enables the co-valorization of CO 2 and CH 4 into syngas, yet the development of sintering- and coking-resistant catalysts that suppress CH 4 cracking while accelerating coke gasification without compromising reaction efficiency remains a major challenge. Here, we address this challenge by employing surface-passivated catalysts derived from high-entropy oxides (HEOs) for stable DRM operation. Alkaline earth metal cation (M 2+ )-doped HEOs were designed to function without pretreatment and exhibited resistance to sintering and coking. This robustness arises from the in situ exsolution of NiCuCo alloy nanoparticles encapsulated within a multifunctional BaCO 3 overlayer, enabled by HEO-stabilized Ba incorporation and Ba-mediated surface reconstruction during DRM. This adaptive architecture passivates deep CH 4 cracking, promotes CO 2 activation, accelerates coke gasification, and thereby sustains catalytic efficiency and durability. Comprehensive spectroscopic, microscopic, and diffraction analyses revealed the structural dynamics and mechanistic pathways governing catalyst evolution under DRM conditions.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1126/sciadv.aeh0646": {
+"source": "Science Advances",
+"title": "Global iodine emissions remain near constant over the 21st century",
+"link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0646?af=R",
+"doi": "10.1126/sciadv.aeh0646",
+"date": "2026-11-25T08:00:00+00:00",
+"summary": "The reaction between atmospheric ozone and ocean iodide releases gaseous iodine into the atmosphere, destroying ozone and nucleating aerosol particles. The current paradigm is that iodine emissions will substantially increase over this century, with implications for climate, air quality, and human health. Using advanced predictions of ocean iodide concentrations and the iodine emissions function, we re-evaluate this understanding. Rather than increasing through 2100, we find minimal change (−3%) in global iodine emissions compared to present day, predominantly due to a sea surface temperature driven decrease in the iodine emissions function together with relatively unchanged sea surface iodide concentrations. However, emissions increases remain in the critical Arctic region (+143%), resulting in an additional 9 ppbv of springtime surface ozone loss across the region. Our results highlight that predictions of future atmospheric iodine depend on the assumed climate-induced changes in oceanic iodide, in addition to changes in emissions driven by anthropogenic ozone and sea-surface temperature.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1126/sciadv.aei6617": {
+"source": "Science Advances",
+"title": "Historical evidence that wildfire frequency modulates debris-flow hazards through sediment-supply limitation",
+"link": "https://www.science.org/doi/abs/10.1126/sciadv.aei6617?af=R",
+"doi": "10.1126/sciadv.aei6617",
+"date": "2026-11-25T08:00:00+00:00",
+"summary": "Southern California is an epicenter of postwildfire debris flows. In this region, steep topography, frequent fire, heavy rainstorms, and large populations along the wildland-urban interface conspire to produce costly debris flows. Wildfire frequency in the region has tripled in recent decades, causing concern about escalating debris-flow hazards. Here, we investigate how wildfire frequency affects the magnitude of postfire erosion by analyzing long-term debris basin records. We identify two contrasting erosional styles. In steep catchments, erosion exhibits a binge-purge behavior: Erosion for 3 years following fire exceeds background rates by ∼17×. In contrast, in low-sloping, soil-mantled catchments, sediment export following fire only exceeds background rates by ∼1.5×. Critically, in the steep catchments, debris-flow volumes decline when wildfires recur more frequently than the ∼30-year interval characteristic of the past century. This observation suggests a sediment-supply limitation in which more frequent wildfire may reduce, rather than amplify, some of Southern California’s most severe debris-flow hazards.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/s41550-026-03027-w": {
+"source": "Nature Astronomy",
+"title": "Author Correction: Periodic radio and X-ray emission from an accreting white dwarf binary",
+"link": "https://www.nature.com/articles/s41550-026-03027-w",
+"doi": "10.1038/s41550-026-03027-w",
+"date": "2026-11-25T00:00:00+00:00",
+"summary": "Nature Astronomy, Published online: 25 November 2026; doi:10.1038/s41550-026-03027-w Author Correction: Periodic radio and X-ray emission from an accreting white dwarf binary",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://www.sciencedirect.com/science/article/pii/S1352231026007582?dgcid=rss_sd_all": {
+"source": "Atmospheric Environment",
+"title": "Characterizing airborne microplastics and other microparticles in wet deposition using laser direct infrared spectroscopy: Observations from Chicago and San Francisco",
+"link": "https://www.sciencedirect.com/science/article/pii/S1352231026007582?dgcid=rss_sd_all",
+"doi": "",
+"date": null,
+"summary": "Publication date: 25 January 2027 Source: Atmospheric Environment, Volume 390 Author(s): Ariston Wang, Lucas W. Wu, Xinyi Zhang, Jiachen Zhang",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://www.sciencedirect.com/science/article/pii/S135223102600748X?dgcid=rss_sd_all": {
+"source": "Atmospheric Environment",
+"title": "Editorial Board",
+"link": "https://www.sciencedirect.com/science/article/pii/S135223102600748X?dgcid=rss_sd_all",
+"doi": "",
+"date": null,
+"summary": "Publication date: 15 January 2027 Source: Atmospheric Environment, Volume 389 Author(s):",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://www.sciencedirect.com/science/article/pii/S1352231026007612?dgcid=rss_sd_all": {
+"source": "Atmospheric Environment",
+"title": "Sea-land breeze-driven ozone recirculation and vertical redistribution over a mountainous coastal region of Southeast China",
+"link": "https://www.sciencedirect.com/science/article/pii/S1352231026007612?dgcid=rss_sd_all",
+"doi": "",
+"date": null,
+"summary": "Publication date: Available online 26 November 2026 Source: Atmospheric Environment Author(s): Jun Hu, Chengchun Shi, Tianliang Zhao, Jane Liu, Bingqi Jiang, Erling Ni, Fuwang Zhang, Chuanyou Ying, Jing Lin, Xiaoyun Sun",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/acp-26-16895-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Drivers of aerosol variability in the high Arctic: insights from integrated observations at Gruvebadet and Zeppelin (Ny-Ålesund)",
+"link": "https://doi.org/10.5194/acp-26-16895-2026",
+"doi": "10.5194/acp-26-16895-2026",
+"date": "2026-11-25T20:12:42+00:00",
+"summary": "This paper summarizes the main results from the scientific project “Boundary layer Evolution Through Harmonization of Aerosol measurements at Ny-Ålesund research stations” (BETHA-NyÅ), in which aerosol measurements of two Arctic atmospheric observatories located near Ny-Ålesund (Svalbard) at different elevations were harmonized: at the Gruvebadet atmospheric laboratory (61 m a.s.l.) and Zeppelin observatory (472 m a.s.l.). This approach allows for a better understanding of how atmospheric layering may affect the variability of aerosol observations in the Ny-Ålesund area. From February 2022 to March 2023, a coordinated sampling campaign enabled a direct comparison of optical, chemical, and physical aerosol properties, integrated with meteorological data from the Amundsen-Nobile Climate Change Tower. Results reveal a strong seasonal coherence between the two sites for two topical markers such as sulfate and ammonium, with clear evidence of the winter–spring Arctic Haze phenomenon. Local differences emerged mainly for biogenic tracers (e.g., arabitol and mannitol) which were detected at higher concentrations at Gruvebadet compared to Zeppelin observatory, highlighting the role of near-surface sources and aerosol stratification. The analysis of trace elements, lead isotopic ratios, and organic markers helped us to distinguish natural from anthropogenic contributions, confirming the dominant role of long-range transport and the persistence of isotopic signatures consistent with Eurasian sources. The systematic comparison across the two observatories demonstrates the robustness of the harmonized protocol and emphasizes the importance of an integrated monitoring network for evaluating the evolution of atmospheric processes in the Arctic.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/acp-26-16873-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Technical note: A decoupled in situ framework for aerosol multi-wavelength optical properties: application for lidar retrievals",
+"link": "https://doi.org/10.5194/acp-26-16873-2026",
+"doi": "10.5194/acp-26-16873-2026",
+"date": "2026-11-25T20:12:42+00:00",
+"summary": "Accurate constraints on aerosol complex refractive index (CRI), single scattering albedo (SSA), and lidar ratio (LR) are essential for improving lidar-based aerosol retrievals and reducing radiative-effect uncertainties. However, their consistent derivation from in situ observations remains challenging because size distribution, absorption, and humidity effects are coupled. Here we present a decoupled inversion framework that integrates SMPS–OPC size distributions, AE33-derived absorption coefficients, and ambient relative humidity observations from the Vipava Valley (Slovenia) in April 2016 to derive dry-state homogeneous-equivalent CRI and RH-corrected lidar-relevant SSA and LR at 355, 532, and 1064 nm. The framework reconstructs a continuous particle size distribution through instrument-response-aware SMPS–OPC geometric alignment and retrieves the reference real refractive index. AE33-derived absorption constraints and a singly subtractive Kramers–Kronig (SSKK) relation are then used to derive the dry-state CRI spectrum, after which SSA and LR are recalculated through an RH-corrected wet-state forward optical calculation. Under the assumed AE33 reference scenario with an effective multiple-scattering correction factor of C eff =5, mean dry-state n values were 1.449, 1.441, and 1.437, and mean k values were 0.0309, 0.0235, and 0.0190 at 355, 532, and 1064 nm, respectively. The RH-corrected mean SSA values were 0.855, 0.841, and 0.760, and the corresponding mean LR values were 86.53, 57.59, and 39.81 sr. Increasing C eff from 1.57 to 5 decreased median RH-corrected LR 355 from 137.3 to 84.3 sr and increased median SSA 355 from 0.646 to 0.867. These conditional, site-specific estimates link dry in situ retrievals with RH-corrected lidar-relevant optical properties.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/acp-26-16939-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Enhanced cirrus response to upper-tropospheric Saharan dust over Central Europe: evidence from Hungary (2001–2025)",
+"link": "https://doi.org/10.5194/acp-26-16939-2026",
+"doi": "10.5194/acp-26-16939-2026",
+"date": "2026-11-25T20:12:42+00:00",
+"summary": "Saharan mineral dust is an important source of ice-nucleating particles, yet the long-term evolution of its relationship with upper-tropospheric ice clouds remains poorly constrained. Here, we investigate dust–cloud interactions over Hungary during 2001–2025 using MERRA-2, MODIS, and HIRS data, focusing on 276 independently identified Saharan dust events (SDEs). Vertically resolved MERRA-2 dust fields were used to quantify mineral dust at 7–12 km, allowing cloud properties to be compared between SDEs with different upper-tropospheric dust abundances and low-dust reference conditions. SDEs with high Dust7–12 were characterized by enhanced cirrus reflectance and high-cloud fraction and by higher, colder cloud tops in all seasons. The response was particularly coherent in spring, when cirrus reflectance and high-cloud fraction were 272 % and 133 % higher, respectively, effective ice particle radius was 7.2 % smaller, and outgoing longwave radiation was 14.4 % lower than under low-dust conditions. Springtime five-year composites showed no monotonic increase in Dust7–12, whereas the cirrus-reflectance enhancement increased from 143 % in 2001–2005 to 398 % in 2021–2025. These results indicate an increasingly pronounced springtime cirrus optical response during SDEs containing substantial dust at cirrus-relevant altitudes, while other cloud properties exhibit more variable long-term behaviour.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/acp-26-16917-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Observed long-term changes in global tropopause characteristics",
+"link": "https://doi.org/10.5194/acp-26-16917-2026",
+"doi": "10.5194/acp-26-16917-2026",
+"date": "2026-11-25T20:12:42+00:00",
+"summary": "Variability or long-term change in tropopause characteristics has important implications for climate, especially since its temperature – to a large extent – dictates the amount of water vapor (a critical greenhouse gas) in the stratosphere. While conventional observations sufficient for examining tropopause characteristics provide limited geographic coverage, the growing global navigation satellite system radio occultation record provides relatively unlimited geographic coverage continuously since early 2001. This study applies the temperature lapse-rate tropopause (LRT), potential temperature gradient tropopause (PTGT), and cold-point tropopause (CPT) definitions to the most recent 23-year radio occultation data period (2003–2025, inclusive) to create robust climatologies and assess long-term changes (statistically significant positive/negative trends) in the altitude, temperature, and sharpness of the primary tropopause and in the occurrence of multiple tropopauses. Regardless of definition considered (LRT, PTGT, and – in the tropics – CPT), primary tropopause altitudes and temperatures are found to be increasing in most locations, consistent with other studies. A narrow region of decreasing tropopause altitudes in the subtropics and over the southern hemisphere east Pacific ocean basin is found to be driven by localized tropical narrowing, while the width of the tropics (based on tropopause altitude) is found to be increasing otherwise, especially throughout the northern hemisphere. Primary tropopause sharpness is also found to be increasing in most locations, but especially so in the tropics, where it is driven by both upper troposphere stability decreases and lower stratosphere stability increases. Finally, double and triple tropopauses are becoming more frequent in both the tropics and midlatitudes.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/acp-26-16837-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Measurement report: Geostationary satellite and ground-based video observations of cloud brightness variations triggered by the 2022 Hunga Lamb wave",
+"link": "https://doi.org/10.5194/acp-26-16837-2026",
+"doi": "10.5194/acp-26-16837-2026",
+"date": "2026-11-25T20:12:42+00:00",
+"summary": "The eruption of the Hunga volcano on 15 January 2022 generated a Lamb wave, an atmospheric pressure perturbation propagating horizontally at the speed of sound. A recent regional study uncovered variations in the reflectance of liquid clouds triggered by the wave's temperature perturbations, most notably a transient darkening during the first minor-arc wave passage across the Caribbean. The present expanded analysis – combining ground-based video footage, surface pressure records, and geostationary satellite imagery – reveals that the Lamb wave-induced cloud reflectance variations were globally detectable for ∼ 6 d. Reflectance anomalies traced temperature anomalies on timescales as short as a few seconds to 1 min and persisted at the 2 % level even after 3 d of propagation. The relative magnitudes of cloud darkening and brightening changed upon each crossing of the antipode or the epicenter due to the caustic phase shift. Brightening dominated during the second minor-arc wave passage because of a polarity inversion. The observed lifetime of the Lamb wave compares well with early theoretical estimates.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/acp-26-16857-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Year-round aerosol variability across monsoon regimes at a near-equatorial Indian Ocean receptor",
+"link": "https://doi.org/10.5194/acp-26-16857-2026",
+"doi": "10.5194/acp-26-16857-2026",
+"date": "2026-11-25T20:12:42+00:00",
+"summary": "Year-round observations of aerosol characteristics remain scarce over the equatorial Indian Ocean, particularly at receptor locations far from South Asian continental sources. Here, we present measurements of fine particulate matter (PM 2.5 ) chemical composition, aerosol optical properties, meteorology, air-mass transport, and five supporting dual-carbon isotope measurements from the Maldives Climate Observatory at Gan (MCOG; 0.69° S, 73.15° E) during the 2022 seasonal cycle. During the northeast monsoon (NEM), continental influence from South and Southeast Asia coincided with higher PM 2.5 concentrations (5.6±2.7µgm-3), aerosol optical depth at 500 nm (AOD 500 ; 0.17±0.09), black carbon (BC), organic carbon (OC), and non-sea-salt sulfate. In the southwest monsoon (SWM), PM 2.5 and AOD 500 were approximately 41 % and 35 % lower, respectively, while the relative contribution of marine aerosol increased. These differences likely reflect the combined influence of changes in air-mass origin and monsoon meteorology, including increased precipitation and wet scavenging during the SWM. Despite pronounced changes in aerosol abundance and composition, the BC mass absorption cross-section at 658 nm (BC-MAC 658 ) differed only modestly between the NEM (8.8±2.9m2g-1) and SWM (10.2±3.2m2g-1), with no statistically significant seasonal difference. The isotope measurements showed substantial sample-to-sample variability, with fossil-dominated and mixed fossil–contemporary signatures occurring within both monsoon regimes. These observations provide a year-round benchmark for aerosol transport, wet removal, composition, and BC absorption at a near-equatorial Indian Ocean receptor, complementary to previous measurements from the northern Maldives and useful for evaluating regional chemical-transport and Earth system models.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/s41467-026-78497-7": {
+"source": "Nature Communications",
+"title": "Transcriptional nodes governing diversity and effector rewiring of a plastic liver invariant natural killer T cell ecosystem",
+"link": "https://www.nature.com/articles/s41467-026-78497-7",
+"doi": "10.1038/s41467-026-78497-7",
+"date": "2026-11-27T00:00:00+00:00",
+"summary": "Nature Communications, Published online: 27 November 2026; doi:10.1038/s41467-026-78497-7 The transcriptional diversity of liver-resident invariant natural killer T (LiNKT) cells remains incompletely understood. Here, the authors map eight mouse LiNKT cell subsets and show how transcription factors guide their conversion into inflammatory or regulatory states, revealing targets for controlling liver inflammation and repair.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1038/s41467-026-79543-0": {
+"source": "Nature Communications",
+"title": "Disagreements in global urban growth projections amplify uncertainties in deforestation and carbon emissions",
+"link": "https://www.nature.com/articles/s41467-026-79543-0",
+"doi": "10.1038/s41467-026-79543-0",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Abstract Global urbanization is profoundly reshaping 21st-century land systems, yet its future trajectory remains highly uncertain. Existing projections exhibit divergent urban growth patterns even under identical socioeconomic scenarios. Here, by synthesizing six urban growth projections, we reveal substantial disagreements in the extent and location of urban growth by 2100. These disagreements are amplified by land-system feedbacks, driving cross-dataset variation in urban-induced deforestation (1.75–4.91 million km 2 ) through direct forest conversion and indirect cropland displacement, assuming lost production is compensated by cropland expansion elsewhere. The associated emissions exhibit an absolute range of 29 to 76 GtCO 2 by 2100. Across 100 countries, this range accounts for an average of 3% of unconditional Nationally Determined Contribution emission budgets, reaching 26% in specific countries. Our findings establish cross-dataset disagreement as an important source of uncertainty in land and climate assessments, highlighting the need for robust spatial planning across plausible urban futures.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.5194/ar-4-603-2026": {
+"source": "Aerosol Research",
+"title": "Contributions of fine and coarse particles to light absorption at an urban traffic site during street dust season",
+"link": "https://doi.org/10.5194/ar-4-603-2026",
+"doi": "10.5194/ar-4-603-2026",
+"date": "2026-11-25T21:21:07+00:00",
+"summary": "Light absorption by urban aerosols is dominated by fine particles (particulate matter ≤ 2.5 µm; PM 2.5 ), particularly from traffic exhaust and residential combustion. However, coarse particles (2.5–10 µm; PM 2.5−10 ) can also contribute during spring street dust events in northern countries, while coarse-mode absorption remains poorly constrained in climate and air quality models. This study investigated size-resolved optical properties and chemical composition of PM in an urban street canyon during spring. Hourly PM 10 concentrations averaged 27.1 µg m −3 , while PM 2.5 and PM 1 (≤ 1 µm) concentrations averaged 7.1 and 4.3 µg m −3 , respectively. Light absorption across PM 1 , PM 2.5 , and PM 7.2 fractions was dominated by submicron particles, predominantly at short wavelengths, while coarse particles enhanced absorption during dust resuspension events. Equivalent black carbon (eBC) showed strong size dependence, with PM 1 capturing most combustion-derived BC and hourly eBC increasing by 14 % in PM 2.5 and 41 % in PM 7.2 . Absorption Ångström exponent analysis revealed size- and source-dependent spectral differences, with stronger wavelength dependence during high-PM 10 -dust events and values closer to unity under traffic-exhaust-dominated conditions. The inclusion of coarse particles complicated the interpretation of the AAE470/950 and related biomass burning contribution estimates. Elemental analysis revealed elevated concentrations of Si, Fe, and Al in coarse PM, suggesting contributions from crustal material and/or non-exhaust emissions that may also influence optical properties. These findings demonstrate that quantification and source identification of urban aerosol light absorption require consideration of the selected particle size cut-off.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1029/2026je010161": {
+"source": "JGR: Planets",
+"title": "An Online ACB‐Index: Quantifying Intraseasonal and Interannual Variability in Mars' Aphelion Cloud Belt",
+"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JE010161?af=R",
+"doi": "10.1029/2026je010161",
+"date": "2026-11-26T06:38:52+00:00",
+"summary": "Abstract Mars' Aphelion Cloud Belt (ACB) is a recurrent tropical water–ice cloud system central to the seasonal water cycle, but its intraseasonal variability remains poorly quantified. Recent work identified large‐scale oscillations involving episodic shifts in cloud abundance from Tharsis toward Acidalia and then Syrtis Major, sometimes termed the Tropical Cloud Oscillation, but these events remain difficult to define objectively. We use blue‐filtered Mars Daily Global Maps from Mars Reconnaissance Orbiter/Mars Color Imager during in MY 28–35 to construct an empirical, low‐dimensional description of ACB variability at approximately 3 p.m. local time. After spatial binning, we apply empirical orthogonal function (EOF) analysis of the tropical blue‐channel field. Before constructing the EOF basis, we remove two localized eastward‐propagating spectral artifacts associated with MRO's twice‐daily observation pattern. The leading EOFs capture the dominant Tharsis‐centered cloud maximum and episodic reorganization toward Acidalia and Syrtis Major. We define an online ACB‐index from normalized principal component anomalies in phase‐amplitude form, providing a quantitative measure of the timing, amplitude, and life cycle of west‐east cloud shifts across Mars Years. The first major transition in each year occurs within a narrow window and is therefore consistent with a seasonally controlled adjustment of the quasi‐stationary tropical circulation. Later transitions are less repeatable, vary strongly in amplitude and duration, and are better described as transient intraseasonal events. The proposed ACB‐index therefore separates the repeatable seasonal component of the ACB evolution from year‐specific episodic variability, providing a practical framework for comparing observations, reanalyzes, and Mars global climate model simulations.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1029/2026je009895": {
+"source": "JGR: Planets",
+"title": "Paragenetic Formation of Aqueous Alteration Minerals Under Volcanically Active, Oxidative Weathering Conditions on Mars",
+"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JE009895?af=R",
+"doi": "10.1029/2026je009895",
+"date": "2026-11-25T11:19:48+00:00",
+"summary": "Abstract The chemical weathering of the Martian basaltic crust produces a complex assemblage of aqueous alteration minerals. These alteration minerals can provide critical constraints on the composition of the aqueous and atmospheric systems that produce them. Alteration minerals discovered on Mars include massive global deposits of phyllosilicates, sulfates, and iron (oxyhydr)oxides and localized detections of carbonates and halides. These deposits are rarely monomineralic and are the result of complex geological and geochemical processing of the surface material. Several physicochemical parameters influence and determine the type of alteration mineral produced, including temperature, composition of the atmosphere, amount and composition of the alteration fluid, availability of oxidants, and the protolith. Here, we take a thermodynamic modeling approach to study the alteration of the average crust using the “Mazatzal” basalt at 25°C under volcanically active oxidative conditions. We simulated alteration under variable compositions of CO 2 and S‐bearing species at water‐to‐rock ratios between 0.1 and 10 6 . Our results indicate that the alteration is strongly influenced by system acidity and the presence of S‐bearing gases. The alteration assemblage mostly comprised of phyllosilicates and sulfates; minor alteration phases included simpler silicates, oxides, and carbonates; chloride minerals did not form under modeled conditions. Our model assemblages are compared with alteration assemblages observed on Mars and are used to suggest potential pathways of their formation.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1029/2026je009838": {
+"source": "JGR: Planets",
+"title": "Evaluating the Ability of Data Assimilation to Improve Rossby Wave Representation in the Venus Atmosphere Using an Observing System Simulation Experiment",
+"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JE009838?af=R",
+"doi": "10.1029/2026je009838",
+"date": "2026-11-25T10:50:48+00:00",
+"summary": "Abstract At the cloud top of the Venus atmosphere, mid‐latitude Rossby waves have been observed and are considered to play an important role in the maintenance of the super‐rotation. We successfully corrected the simulated Rossby waves in a general circulation model by conducting an observing system simulation experiment with the help of a data assimilation (DA) technique. The synthetic observations of horizontal winds associated with the Rossby wave were generated by a linear wave propagation model, and they were assimilated at the cloud top (∼70 km) for 30 Earth days in realistic conditions, assuming they were obtained from the cloud tracking of ultraviolet images taken by the Venus orbiters. The results using Eliassen–Palm fluxes demonstrated that enhanced Rossby wave activity in the mid‐latitudes induced a deceleration in zonal‐mean zonal wind. At the conclusion of DA, the model fields reached another quasi‐equilibrium state within about 10 Earth days, indicating that the “memory” of assimilated observations persisted for about two Earth months even though new observations were not available.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-simulations-reveal-solar-vortex-reconnecting.html": {
+"source": "Phys.org – Astronomy",
+"title": "Simulations reveal how a solar vortex and reconnecting magnetic fields can launch a rotating jet",
+"link": "https://phys.org/news/2026-11-simulations-reveal-solar-vortex-reconnecting.html",
+"doi": "",
+"date": "2026-11-25T19:40:10+00:00",
+"summary": "Solar spicules are slender jets commonly found in the chromosphere. They lift relatively cool plasma from the lower solar atmosphere, carry energy upward, and in some cases rotate as they evolve. Small-scale vortices also occur frequently between convection-driven granules in the photosphere. Two questions remain incompletely answered: how these photospheric vortices help form spicules, and how much mass and energy the rising jets carry into the corona. Astronomy",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"url:https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html": {
+"source": "Phys.org – Planetary sciences",
+"title": "DESTINY model tracks molecular chemistry on uneven, ice-covered grains in interstellar space",
+"link": "https://phys.org/news/2026-11-destiny-tracks-molecular-chemistry-uneven.html",
+"doi": "",
+"date": "2026-11-26T21:40:01+00:00",
+"summary": "Interstellar space is the scene of active chemical processes: molecules form there in the gas, but also on the surface of tiny dust grains covered in ice. To better represent what happens on these surfaces, astrophysicists at the University of Liège are proposing a deterministic approach based on Markov chains with absorbing states, a mathematical tool that had not yet been utilized in astrochemistry. The paper is published in the journal Astronomy & Astrophysics. Astrobiology",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.3847/psj/aeb421": {
+"source": "The Planetary Science Journal",
+"title": "Titan’s Stratospheric Water: Latitudinal and Seasonal Variation from Cassini CIRS and Its Implications for External Oxygen Sources",
+"link": "https://iopscience.iop.org/article/10.3847/PSJ/aeb421",
+"doi": "10.3847/psj/aeb421",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Abstract Water plays a crucial role in Titan’s atmospheric chemistry: distributing oxygen throughout the planet and contributing to the formation of organic molecules. The water content of Titan’s atmosphere has long been difficult to constrain due to its low abundance, forcing previous studies to average large numbers of observations over broad latitude and time ranges to achieve sufficient signal-to-noise ratio (SNR). In this study, we present the first evidence for latitudinal and temporal variability in Titan’s stratospheric water abundance. Using temperature measurements from Cassini’s Composite Infrared Spectrometer and a photochemical profile as priors, we retrieve abundances from 79 individual far-infrared 0.5 cm −1 observations and 13 additional averaged datasets binned from 51 observations. A mean equatorial column abundance of (2.6 ± 0.1) × 10 14 molecules cm –2 was found, with retrieved column abundances ranging from 0.9–6.2 × 10 14 molecules cm –2 . Water is enhanced at the north pole by a factor of 3 relative to the mid-latitudes, suggesting enrichment in the lower stratosphere due to subsidence in the winter polar vortex. We find no clear evidence of seasonality; however, significant time-variability is observed. This variability is not readily explained by photochemical or atmospheric processes, so may suggest a time-varying external flux that could be linked to Enceladus’ plumes and neutral torus. In addition, we infer an incoming OH flux of 0.16–1.32 × 10 7 cm −2 s −1 . This range is compatible with Enceladus being the dominant source of water into Titan’s atmosphere, and aligns with previous models and our own derived flux from Enceladus’ neutral torus.",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122508": {
+"source": "Atmospheric Environment",
+"title": "Impact of crop-residue burning timing on PM2.5 pollution and population exposure in Northeast China: Insights from Himawari-constrained CMAQ simulations",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122508",
+"doi": "10.1016/j.atmosenv.2026.122508",
+"date": "2027-01-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122523": {
+"source": "Atmospheric Environment",
+"title": "CTM-assisted generative AI framework for satellite-to-surface estimation of ground-level NO2 and its extensions to other pollutants",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122523",
+"doi": "10.1016/j.atmosenv.2026.122523",
+"date": "2027-01-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122525": {
+"source": "Atmospheric Environment",
+"title": "Quantifying the monthly-scale temporal persistence of high-NO2 months in four sub-Saharan African cities using TROPOMI",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122525",
+"doi": "10.1016/j.atmosenv.2026.122525",
+"date": "2027-01-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122509": {
+"source": "Atmospheric Environment",
+"title": "Estimation of surface NO2 concentrations over China and elucidation of NO2 pollution driving factors via causal inference machine learning model",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122509",
+"doi": "10.1016/j.atmosenv.2026.122509",
+"date": "2027-01-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122528": {
+"source": "Atmospheric Environment",
+"title": "Characterizing airborne microplastics and other microparticles in wet deposition using laser direct infrared spectroscopy: Observations from Chicago and San Francisco",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122528",
+"doi": "10.1016/j.atmosenv.2026.122528",
+"date": "2027-01-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:06.489494+00:00"
+},
+"doi:10.1126/science.adz2675": {
+"source": "Science",
+"title": "A fast radio burst at redshift 2, three billion years after the Big Bang",
+"link": "https://doi.org/10.1126/science.adz2675",
+"doi": "10.1126/science.adz2675",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Fast radio bursts (FRBs) are millisecond-duration radio transients from extragalactic sources. Their frequency and polarization properties are affected by plasma and magnetic fields along the line of sight to Earth. We report radio observations of FRB 20240304B and near-infrared follow-up to identify its host galaxy. The host is a low-mass, clumpy, star-forming galaxy at redshift 2.148 ± 0.0013, corresponding to 3 billion years after the Big Bang. This FRB occurred during the peak of cosmic star formation and probes ionized gas over ~80% of cosmic history. The highly scattered burst emission implies that there is a population of FRBs that are undetected by current surveys.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/science.aei6252": {
+"source": "Science",
+"title": "AI-based digital pathology defines spatial border ecosystems in triple-negative breast cancer",
+"link": "https://doi.org/10.1126/science.aei6252",
+"doi": "10.1126/science.aei6252",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "The invasive tumor border in triple-negative breast cancer (TNBC) is currently poorly understood. We integrated digital pathology and spatial multi-omics to define border ecosystems in TNBC. AI-based digital pathology identified five border ecosystems, three associated with prognosis. Spatial multi-omics analyses further resolved the spatial niche, molecular mechanisms and clinical relevance of these ecosystems. Immune-infiltrated borders contain a triadic immune niche associated with favorable prognosis and immunotherapy sensitivity. Tumor–stroma borders harbor a MIF + fibroblast exclusion niche that blocks immune infiltration and suppresses T cells function, predicting poor prognosis. Tumor–adipose borders, featured an FLT1 + endothelial niche, promote hypoxia, vascular leakage, and tumor dissemination. Targeting this niche inhibits tumor progression. Collectively, these findings establish a spatial resource that might enable border-directed therapeutic strategies in TNBC.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/science.adx9551": {
+"source": "Science",
+"title": "Priming of AGO2 by type I interferons balances inflammation and antiviral immunity",
+"link": "https://doi.org/10.1126/science.adx9551",
+"doi": "10.1126/science.adx9551",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Argonaute-2 (AGO2)–mediated RNA silencing contributes to antiviral defenses in plants and insects and may contribute to mammalian immunity, too. However, it is unknown whether AGO2 is modified upon infection or inflammation in mammals. We identified that the ubiquitin ligase RING-finger protein 126 (RNF126) interacts with and ubiquitinates AGO2 to enhance its small interfering RNA or microRNA loading. Using data from cells in vitro and mouse tissues, we propose that RNF126 is induced by type I interferon (IFN-I) signaling and promotes the ability of AGO2 to silence proinflammatory genes and inhibit viral replication. Lipid nanoparticle delivery of RNF126 mRNA to mice inhibited inflammation and viral replication. These findings identify cross-talk of IFN-based immune signaling and AGO2-mediated RNA silencing and suggest that the RNF126-AGO2 axis helps to balance inflammatory and antiviral immune protection.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/science.aei2575": {
+"source": "Science",
+"title": "Abrupt surface water decline during 2023–2024 record warming",
+"link": "https://doi.org/10.1126/science.aei2575",
+"doi": "10.1126/science.aei2575",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Global warming is expected to accelerate the hydrological cycle, yet its impact on terrestrial water availability is uncertain. Using assimilated streamflow observations from 150 major basins and satellite data for over 1.2 million water bodies, we show a global-scale synchronized decline of streamflow and surface water storage during the 2023–2024 record-warm period, the largest reduction since 1991. South America accounted for 70.4 ± 4.2% of the global streamflow decline. This abrupt depletion was driven by compound ocean–atmosphere forcing, in which concurrent El Niño and tropical North Atlantic warming triggered large-scale atmospheric subsidence, moisture divergence, and amplified drought. These findings reveal that extreme warming can induce abrupt water losses even in humid regions, underscoring a critical vulnerability of global hydrology and water security.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/sciadv.aea9008": {
+"source": "Science Advances",
+"title": "Rapid intensification of summer convective precipitation in New England",
+"link": "https://doi.org/10.1126/sciadv.aea9008",
+"doi": "10.1126/sciadv.aea9008",
+"date": "2026-11-27T00:00:00+00:00",
+"summary": "Anthropogenic warming is intensifying precipitation extremes, yet how subdaily convective rainfall responds in historically stratiform-dominated midlatitude regions remains poorly constrained. Using four decades of hourly station observations and reanalysis data, we show that summer convective precipitation has intensified across much of New England and surrounding regions from 1980 to 2020, with high-intensity events increasing in higher latitudes. Extreme convective rainfall scales at ∼13 to 14% per degree Celsius, nearly twice the Clausius-Clapeyron rate and significantly faster than stratiform precipitation. This intensification is accompanied by shorter event durations, increased moisture convergence, enhanced convective instability, and reduced antecedent soil moisture. Our results indicate a warming-driven shift toward convective dominance linked to changes in midlatitude circulation, reduced meridional temperature gradient, and land-atmosphere coupling, placing New England within an emerging poleward extension of the summer convective regime.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/sciadv.aeh7301": {
+"source": "Science Advances",
+"title": "Signals of rapid genetic change in reef coral over time and following mass mortality",
+"link": "https://doi.org/10.1126/sciadv.aeh7301",
+"doi": "10.1126/sciadv.aeh7301",
+"date": "2026-11-27T00:00:00+00:00",
+"summary": "Future coral reef persistence amidst accelerating climate change depends on rapid adaptive capacity. Sixteen years (2003 to 2019) of genetic data ( N = 903) spanning mass mortality events uncovered polygenic signals of evolution and population structure in one Great Barrier Reef coral species ( Acropora tenuis ) and a similar but nonsignificant trend in another ( Acropora millepora ). Random forest revealed larger genetic shifts postbleaching compared to other time points, which was further supported by critical transitions in 34 years of remotely sensed thermal data (1985 to 2018). Concordant signals across multiple genomic ordinations confirmed significant shifts postbleaching. Specifically, three genetic variants contributed significantly to key random forest splits over time in A. tenuis . Significant genome-wide covariance in allele frequencies suggests shifts due to selection, not drift. This suggests that coral gene pools are changing, and measurable evolution can happen over subdecadal timescales, giving hope for coral resilience amid the ongoing climate crisis. However, we caution against overoptimism, and stress emissions must be urgently reduced.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/sciadv.aei1858": {
+"source": "Science Advances",
+"title": "Arctic forcing of European spring productivity and agricultural yields linked to Barents Sea ice loss",
+"link": "https://doi.org/10.1126/sciadv.aei1858",
+"doi": "10.1126/sciadv.aei1858",
+"date": "2026-11-27T00:00:00+00:00",
+"summary": "Arctic sea ice loss reshapes midlatitude climate, yet its cascading impacts on terrestrial carbon cycling and food security remain unclear. Barents Sea ice area (BSIA) has experienced the Arctic’s fastest decline. Using four decades of satellite observations, agricultural statistics, and Earth system model (ESM) simulations, we identify late-winter BSIA as a key driver of European spring productivity. Interannual BSIA reductions substantially enhance gross primary productivity (GPP) and raise national wheat yields by up to 16.5% in Eastern Europe, a global breadbasket. Reanalysis and model experiments reveal that reduced BSIA alters large-scale circulation through stratosphere-troposphere coupling, wave–mean flow interactions, and Rossby wave propagation. Anomalous subsidence drives adiabatic and radiative warming; cyclonic flow strengthens warm-air advection, together alleviating thermal constraints on photosynthesis. Although most ESMs capture atmospheric teleconnections, they systematically underestimate productivity responses due to underrepresented GPP-temperature sensitivity. BSIA decline accounts for approximately half of the four-decade increase in Eastern European productivity, highlighting an overlooked Arctic forcing of midlatitude carbon dynamics.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1126/sciadv.aei2154": {
+"source": "Science Advances",
+"title": "A precipitation threshold delineates contrasting controls on global soil pH under nitrogen fertilization",
+"link": "https://doi.org/10.1126/sciadv.aei2154",
+"doi": "10.1126/sciadv.aei2154",
+"date": "2026-11-27T00:00:00+00:00",
+"summary": "Nitrogen fertilization is a major driver of soil acidification globally, yet its independent effects on soil pH and the underlying mechanisms remain poorly resolved. Here we isolate the contribution of nitrogen fertilization by compiling the largest paired experimental dataset to date, consisting of 3564 paired soil pH observations under control and nitrogen fertilization treatments across seven major ecosystem types worldwide. By constructing robust machine-learning models, we predict global soil pH under nitrogen fertilization (pH_T) and quantify fertilization-associated pH change under a standardized hypothetical fertilization scenario. Under this scenario, we estimate that 96.27% of global soils undergo acidification, with a mean pH decline of 0.34 units. Critically, we identify a precipitation threshold at ∼900 mm year −1 that separates two distinct regimes in the relationship between precipitation and pH_T: climate-driven leaching and buffering in drier regions versus soil-mediated internal regulation in humid regions. This threshold demonstrates that the association between precipitation and pH_T is not uniform across the global precipitation gradient but varies markedly among hydroclimatic regions. Our results provide a global outlook on soil pH responses to nitrogen fertilization, supporting acidification risk early warning, precision fertilizer management, and sustainable agricultural development.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15101-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Evolution of firework-related barium aerosols: insights from single-particle analysis and mass concentration monitoring",
+"link": "https://doi.org/10.5194/acp-26-15101-2026",
+"doi": "10.5194/acp-26-15101-2026",
+"date": "2026-10-28T00:00:00+00:00",
+"summary": "Fireworks are a well-known source of barium (Ba) in the atmosphere, yet the aging of firework-derived Ba-containing particles remain poorly understood. Combining online measurements of Ba mass concentrations with single-particle aerosol mass spectrometry (SPAMS) at four sites in Guangzhou, China, we found that firework events raised atmospheric Ba concentrations to levels 1–3 orders of magnitude above background. Peak Ba concentrations varied substantially among sites. Despite its substantially higher population density, the urban-core site under a complete firework ban exhibited a lower peak Ba concentration than a suburban site with time- and location-restricted firework use. This contrast was consistent with a potential mitigating influence of stricter controls, although site-specific emissions and transport may also have contributed. Among the identified particle classes, chloride-rich OClN particles and nitrate-dominated N particles were interpreted as relatively early and more advanced stages of atmospheric aging, respectively. Al/Mg-containing components, were more prevalent in OClN particles than in N particles, consistent with physical mixing during early aging, while several-hour lags between OClN and N peaks and between NO 2 and particulate NO3- suggested secondary nitrate formation, although primary nitrate emissions from fireworks could not be excluded. These findings provide insights into the rapid aging mechanisms of firework-derived Ba particles and highlight the need to consider differentiated firework-control measures alongside site-specific emission and transport conditions when interpreting spatial pollution contrasts. Screening-level hazard quotients (HQs) based on an oral reference dose (RfD) surrogate were below 1, but short-duration Ba concentration peaks warrant further evaluation of their potential inhalation-related health implications using inhalation-specific toxicity benchmarks.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15117-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Relative roles of aerosol size and hygroscopicity in modulating marine liquid-phase cloud responses under the winter monsoon",
+"link": "https://doi.org/10.5194/acp-26-15117-2026",
+"doi": "10.5194/acp-26-15117-2026",
+"date": "2026-10-28T00:00:00+00:00",
+"summary": "How aerosol physicochemical properties affect aerosol-cloud interactions (ACI) and when these impacts are most pronounced represent an important source of ACI uncertainty. Targeting a representative liquid-phase cloud case over the Eastern China Ocean (ECO) under the winter monsoon featuring abundant meteorological, aerosol, and cloud variations, this study investigates the impacts of changes in aerosol size (volume-mean radius increased by 1.2 times and decreased by 45 %) and hygroscopicity (volume-mean hygroscopicity increased by 2.2 times and decreased by 62 %) using a spectral-bin cloud model. Results indicate that increased aerosol size and hygroscopicity generally enhance cloud development, raising the averaged cloud droplet number concentration ( N d ) by 92 % and 53 %, respectively. These impacts peak under moderate aerosol concentrations ( N a ) and cold advection, where N d increases up to 10-fold. Concurrently, increased aerosol size raises cloud water by 1.3 times and extends cloud lifetime by 85 %, whereas increased hygroscopicity has a much weaker effect. By contrast, decreased aerosol size and hygroscopicity generally suppress cloud development, reducing the averaged N d by 49 % and 43 %, respectively. The former has a relatively strong impact, which is most notable in moderate-to-high N a environments under cold advection, reducing N d and cloud water by over 80 % and 50 %, respectively. While changes in aerosol size generally exert a stronger overall impact than changes in hygroscopicity, specific conditions reveal the opposite. Notably, the enhancement of N d by increased hygroscopicity under high N a , and the preservation of cloud and rainwater through evaporation suppression by decreased hygroscopicity, both surpass the effects caused by corresponding aerosol size changes.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15139-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Quantifying and attributing CO emissions over Central Asia using TROPOMI and explicit observational uncertainty",
+"link": "https://doi.org/10.5194/acp-26-15139-2026",
+"doi": "10.5194/acp-26-15139-2026",
+"date": "2026-10-28T00:00:00+00:00",
+"summary": "Carbon monoxide (CO) is an important atmospheric constituent affecting both air quality and climate. Using TROPOMI CO and HCHO column retrievals within the Model-Free Inversion Estimation Framework (MFIEF), we derived daily gridded CO emission estimates over Central Asia, including Xinjiang, Kazakhstan, Kyrgyzstan, and Uzbekistan, for 2019–2024. Regional mean CO emissions decreased by 37.9 % between 2019 and 2024, with a significant seasonally adjusted trend of -0.33µgm-2s-1yr-1. The identified emission hotspots also weakened over the study period. Higher emissions during winter and early spring are consistent with enhanced combustion associated with residential heating and industrial activity. A perturbation-based uncertainty analysis propagates assumed observational uncertainties through the inversion and indicates that approximately 69 % of the daily grid-cell emission estimates fall outside the adopted uncertainty bounds, highlighting the potential influence of atmospheric variability, dust loading, small sources, and observational uncertainty on the reliability of grid-scale emission estimates. The spatial distribution of satellite-derived grid-scale CO emission estimates reveals differences in urban emissions relative to bottom-up inventories, indicates a moderate positive association between coal consumption and inferred CO emissions at selected industrial locations, and highlights emissions associated with persistent underground coal fires, which are not explicitly represented as a separate source category in conventional anthropogenic emission inventories. This study demonstrates the potential of MFIEF as an observation-driven approach for characterizing regional CO emission patterns and temporal variability in data-sparse regions and provides complementary information for emission-inventory development and source characterization when production and location data are not available or are out of date.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15161-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Volatile organic compounds and their role in secondary aerosol chemistry in a cold and dark urban environment",
+"link": "https://doi.org/10.5194/acp-26-15161-2026",
+"doi": "10.5194/acp-26-15161-2026",
+"date": "2026-10-28T00:00:00+00:00",
+"summary": "The role of volatile organic compound (VOC) emissions in secondary aerosol chemistry in urban subarctic environments remains poorly understood. Previous studies in wintertime Fairbanks, Alaska suggest that aldehydes may serve as precursors of sulfur(IV) adducts in aerosols, contributing to the high concentrations of wintertime PM 2.5 pollution Fairbanks often experiences. It is unknown to what extent VOCs participate in secondary aerosol chemistry, or what the sources of largely secondary VOCs (like formaldehyde) are in such a cold and dark environment. Here, we explore the sources of VOCs and examine their role in secondary chemistry. We use measurements from an online proton transfer reaction time of flight mass spectrometer, combined with complementary gas and aerosol measurements from the Alaskan Layered Pollution and Chemical Analysis (ALPACA) wintertime field campaign in 2022, to examine VOC sources and their roles in aerosol chemistry in downtown Fairbanks. We find that alcohols, aromatics and carbonyls together account for ∼ 70 % of measured VOCs, with methanol, ethanol, formaldehyde, benzene and toluene as dominant species. Positive matrix factorization (PMF) analysis indicates up to 56 % of VOCs are vehicle-associated, with 29 %–36 % from direct emissions and 21 % from windshield wiper fluid. Wood heating and heating oil together contribute 14 %. Formaldehyde is primarily linked to diesel emissions, as well as primary and secondary sources associated with local aged air masses. By comparing PMF factors with measured PM 2.5 S(IV) species, we find that vehicle-related emissions of ammonia (which modulates aerosol pH) and formaldehyde could promote the formation of hydroxymethanesulfonate (HMS) in Fairbanks.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15179-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Lake-Mountain synergy in convective clouds and precipitation over the Tibetan Plateau: a large-eddy simulation study",
+"link": "https://doi.org/10.5194/acp-26-15179-2026",
+"doi": "10.5194/acp-26-15179-2026",
+"date": "2026-10-29T00:00:00+00:00",
+"summary": "Idealized large-eddy simulations (LES) are used to examine lake-mountain effects on clouds and precipitation over the Tibetan Plateau (TP) under conditions of low air density and limited moisture. This study conducts LES respectively with lake-only, mountain-only, and combined lake-mountain configurations. The alpine lake alleviates key constraints on convective organization by enhancing low-level moisture and reducing thermodynamic inhibition to convective initiation. However, in this energy- and moisture-limited environment, the lake alone induces only shallow ascent, sustaining shallow convection and weak precipitation with limited deepening. By contrast, mountain alone provides mechanically forced uplift, but the overall scarcity of moisture over the TP confines precipitation to a narrow area near the mountain. With combined lake-mountain configurations, lake-supplied moisture is lifted by the downstream mountain, deep convective clouds develop, yielding strong and extensive precipitation. Notably, mountains exhibit a reversed role in lake-mountain interactions affecting clouds and precipitation processes, owing to the competition between orographic lifting and blocking effects. High mountains enhance precipitation on the upstream side while suppressing downstream development by restricting low-level moisture transport from lake source, whereas low mountains allow broader horizontal moisture advection but induce weaker vertical development. Overall, lake-mountain coupling is intrinsic to the TP's high-elevation, moisture and energy limited environment, where lake-driven moistening lowers initiation barriers, orographic lifting and blocking organize and deepen convection, and mixed-phase processes further reshape precipitation patterns. This pathway is typically not dominant over the low-elevation regions. These findings clarify how high-elevation surface heterogeneity affects clouds and precipitation, with implications for the Asian water cycle.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15201-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Spring-summer atmospheric circulation and boundary layer processes modulating aerosol and cloud characteristics over the coastal Northeast Pacific during EPCAPE",
+"link": "https://doi.org/10.5194/acp-26-15201-2026",
+"doi": "10.5194/acp-26-15201-2026",
+"date": "2026-10-29T00:00:00+00:00",
+"summary": "Observations collected during the ARM Eastern Pacific Cloud Aerosol Precipitation Experiment (EPCAPE) for the period spanning April to September 2023 (spring and summer) at Scripps Pier in La Jolla, California (32.8669° N, 117.2569° W) were used to investigate the regional-scale atmospheric factors that control the variability of predominant marine low clouds and aerosols in the coastal boundary layer. Using Self-Organizing Maps (SOMs) applied to ERA5 sea level pressure and near-surface wind fields, we classify the synoptic evolution of the subtropical anticyclone into 9 regimes. This regime categorization highlights the following dominant features in Northeast Pacific: (1) regimes that capture the evolution of the anticyclone in terms of magnitude (strong vs. weak) and location (coastal vs. offshore), with their corresponding transitions in boundary layer wind strengthening and large-scale subsidence (regimes: 1–3 vs. 6–8), (2) a second dominant feature characterized by an anticyclone with its core at the northwestern edge of the domain, resulting in modest sea level pressure changes near Scripps Pier (regimes 6–8), (3) patterns with a weakened subtropical anticyclone south of Scripps Pier and a midlatitude cyclone further north (regimes 4 and 5), and (4) an additional regime that captures anomalies that minimally depart from the climatological mean (regime 9). GOES-18 satellite cloud retrievals reveal that regimes associated with an anticyclone core closer to the EPCAPE coastal site (regimes 1–4) is associated with reduced low-cloud fraction, shallower clouds, and low liquid water path (LWP) along the shoreline; whereas regimes with a west/north-westward-displaced anticyclone combined with a weak coastal inland low-pressure feature (regimes 6–8) that support extensive stratocumulus with higher LWP and elevated cloud tops. Variability in the aerosol distribution is also controlled by the synoptic scale processes. Regimes with a relatively weak anticyclone centered adjacent to the Scripps Pier (regime 4) generally feature the highest concentrations of particles with diameter ≤ 0.1 µm, associated with a stable boundary layer and stagnation under weak winds. Regimes with anticyclone strengthening farther offshore (regimes 6–8) have relatively lower aerosol concentrations. The partial inconsistency in the evolution of the cloud droplet number concentration ( N d ) and aerosol concentration indicates that the variability in boundary layer turbulence is a critical component that explains the aerosol activation into N d .",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15223-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Evaluation of the GOSAT/GOSAT-2 XCO 2 proxy XCH 4 product by comparison with TCCON observations over China",
+"link": "https://doi.org/10.5194/acp-26-15223-2026",
+"doi": "10.5194/acp-26-15223-2026",
+"date": "2026-10-29T00:00:00+00:00",
+"summary": "Methane (CH 4 ) is the second most important well-mixed greenhouse gas after carbon dioxide (CO 2 ) and its accurate monitoring supports China's “dual carbon” goals. Satellites enable global CH 4 monitoring using various sensors and retrieval techniques. The XCO 2 proxy method derives the column-averaged dry-air mole fraction of CH 4 (XCH 4 ) from the XCH4/XCO2 ratio and an independent XCO 2 estimate, exploiting the overlapping absorption bands of CH 4 and CO 2 near 1.6 µm and assuming similar vertical distributions to reduce common retrieval errors. In this study, four XCO 2 proxy methane products, GOSAT SRPR, OCPR, FOCAL Proxy, and GOSAT-2 SRPR, are evaluated using Total Carbon Column Observing Network (TCCON) ground-based observations at the Hefei and Xianghe sites in China. GOSAT products show lower bias and RMSE at Xianghe than at Hefei, while GOSAT-2 products are similar at both sites, with lower bias, RMSE, and standard deviation compared with the GOSAT products and approximately 51 % of retrievals meeting GCOS requirements. All products, except OCPR, overestimate XCH 4 at Hefei and underestimate XCH 4 at Xianghe, due to XCO 2 model errors and spatial differences associated with regional and local methane emissions affecting both sites. Furthermore, the overestimation of the ratio implies that the fundamental assumption of the XCO 2 proxy method is not fulfilled, primarily due to systematic positive biases in the satellite-retrieved XCH 4 used in the proxy calculation. This study provides key error characteristics and spatial-seasonal biases in current satellite proxy methane products over China, supporting future retrieval optimization.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15257-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Impacts of the heterogeneous ammonia uptake on air quality in the North China Plain",
+"link": "https://doi.org/10.5194/acp-26-15257-2026",
+"doi": "10.5194/acp-26-15257-2026",
+"date": "2026-10-29T00:00:00+00:00",
+"summary": "Previous studies have revealed that the heterogeneous uptake of ammonia (NH 3 ) on secondary organic aerosols (SOA) may influence the NH 3 budget, nitrate aerosol chemistry, and the regional PM 2.5 burden, also constituting an important source of nitrogen-containing organic compounds (NOCs). However, regional modeling remains hindered by large uncertainties in the uptake coefficient ( γ ) and limited field-based constraints. In this study, we incorporate a first-order NOCs-forming NH 3 –SOA reactive-uptake pathway into WRF-Chem and adopt a literature-based sensitivity range of γ=10-5-10-3 to evaluate its impacts on air quality and particulate organic nitrogen over the North China Plain during November 2017. Laboratory evidence of declining reaction efficiency and comparison with the measured NOCs burden support considering γ=10-5 as a conservative upper limit for sustained operation of this pathway under the conditions examined. With γ=10-5, the uptake reaction decreases NH 3 concentrations by 0.62 % and inorganic aerosol and PM 2.5 concentrations by less than 0.06 %, while producing 1.2 µg m −3 of NOCs in the NCP. These results indicate that the pathway has only a minor influence on NH 3 and PM 2.5 under the present conditions, but may provide an additional source of particulate organic nitrogen.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15273-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Comparative nitrogen speciation in marine and coastal urban aerosols of the Greater Bay Area and implications for PM 2.5 -bound nitrogen deposition",
+"link": "https://doi.org/10.5194/acp-26-15273-2026",
+"doi": "10.5194/acp-26-15273-2026",
+"date": "2026-10-29T00:00:00+00:00",
+"summary": "We present a summer 2024 comparative study of aerosol nitrogen speciation in the Guangdong–Hong Kong–Macau Greater Bay Area (GBA), examining how nitrogen abundance and chemical composition vary between coastal urban air and adjacent marine air, and their implications for nitrogen deposition. Concurrent shipboard and urban observations from 12 July to 3 August 2024 included bulk inorganic nitrogen (IN) and organic nitrogen (ON) measurements in PM 2.5 and offline aerosol mass spectrometry (AMS) of water extracts. Regional mean PM 2.5 -bound total nitrogen and IN concentrations increased from western to eastern coastal waters, reflecting both spatial and temporal variability. Bulk PM 2.5 -bound ON concentrations decreased offshore by 12.2 % per 10 km, with estimates ranging from 10.1 % to 14.2 % across sensitivity analyses. Beyond these concentration patterns, AMS mass spectra revealed contrasting nitrogen chemistry. Water extracts of urban PM 2.5 exhibited higher NO+/NO2+ ratios than marine PM 2.5 extracts (7.9 ± 2.6 versus 5.4 ± 1.2) and more pronounced organic nitrate-related fragments. These complementary signatures indicate more prominent organic-nitrate-related oxidized-N functionality in urban PM 2.5 , consistent with NO x –VOC photochemistry at the urban site. Four ship-influenced samples showed enhanced imidazole-like fragment signatures, identifying an additional compositional feature warranting targeted investigation. Estimated PM 2.5 -bound nitrogen dry-deposition fluxes were 0.036 and 0.040 mg N m −2 d −1 for marine and coastal urban environments, respectively, with overlapping model-sensitivity ranges. These results demonstrate a notable coastal transition in nitrogen chemical form and suggest that ON speciation should be considered when modelling nitrogen deposition to coastal waters and assessing potential ecosystem responses.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15291-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Meteorological normalization of surface ozone variability across warm and cold seasons in China during 2015–2024",
+"link": "https://doi.org/10.5194/acp-26-15291-2026",
+"doi": "10.5194/acp-26-15291-2026",
+"date": "2026-10-29T00:00:00+00:00",
+"summary": "Surface ozone (O 3 ) concentrations in China have continued to increase, but the roles of meteorological variability and longer-term changes remain uncertain, particularly across seasons and regions. Here, we combined LightGBM-based meteorological normalization with SHapley Additive exPlanations (SHAP) to investigate warm- and cold-season variations in maximum daily 8 h average O 3 (MDA8 O 3 ) across China during 2015–2024. The models reproduced daily MDA8 O 3 variability reasonably well, with mean testing R 2 values of 0.62 and 0.68 in the warm and cold seasons, respectively. Observed national mean MDA8 O 3 increased by 2.0 and 2.2 µgm-3yr-1 in the two seasons, respectively. After meteorological normalization, the corresponding trends were 1.1 and 1.2 µgm-3yr-1, indicating that meteorological variability alone cannot fully explain the observed increases. The normalized long-term component may reflect changes in precursor emissions, background O 3 , regional transport, and other processes not explicitly represented in the model. SHAP analysis revealed distinct seasonal and regional meteorological associations. During the warm season, temperature and solar radiation were more important in northern inland and basin regions, whereas relative humidity and wind were more important in southern coastal regions. During the cold season, solar radiation dominated across most regions, while relative humidity was more important in the Pearl River Delta. Meteorological contributions generally shifted from negative during 2015–2019 to positive after 2019, amplifying O 3 pollution in several regions. These findings highlight the importance of accounting for seasonal meteorological variability when evaluating long-term O 3 trends in China.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15309-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Trends in measured and modeled lower stratospheric Antarctic vortex ozone over the past two decades",
+"link": "https://doi.org/10.5194/acp-26-15309-2026",
+"doi": "10.5194/acp-26-15309-2026",
+"date": "2026-10-30T00:00:00+00:00",
+"summary": "We analyze 2004 to 2023 winter/spring lower stratospheric Antarctic ozone data from the Aura Microwave Limb Sounder (MLS), along with similarly sampled profiles from two simulations from the Whole Atmosphere Community Climate Model (WACCM) run with specified dynamics. One of these simulations uses fixed surface organic halogens from 1998 onward. The interannual variability in MLS vortex-average ozone is well matched by WACCM, although WACCM shows a slightly smaller seasonal decrease. Probability density functions of vortex ozone profiles reveal slow increases in the smallest values; WACCM shows good agreement with MLS distribution shifts and simple linear trends. We also use multivariate linear regression with two periodic functions and a proxy for polar stratospheric clouds to derive trends in vortex-average ozone during September and October. Calculated trends are consistent with slow Antarctic vortex ozone recovery from the impact of ozone-depleting substances, with values between ∼ 5 and 16 ppbv yr −1 in the 56–100 hPa layer. WACCM results agree well with those from MLS. The simulation with fixed surface organic halogens is consistent with zero trend. We also apply the Match technique, which follows MLS-observed parcels along trajectories to estimate vortex-average chemical ozone loss. Match estimates also show slow reductions in seasonal Antarctic ozone loss, although few of the Match results represent greater than two-sigma departures from zero. Our work confirms the emergence of ozone recovery, a key goal of the Aura mission, and underscores the importance of the 1987 Montreal Protocol and its Amendments in curtailing emissions of ozone-depleting substances.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15333-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Source-dependent organic aerosol hygroscopicity in eastern China: observational evidence for conditional enhancement under biomass-burning influence",
+"link": "https://doi.org/10.5194/acp-26-15333-2026",
+"doi": "10.5194/acp-26-15333-2026",
+"date": "2026-10-30T00:00:00+00:00",
+"summary": "Aerosol hygroscopicity is a key property governing aerosol water uptake and aerosol–cloud interactions, yet the hygroscopicity of organic aerosol (OA) remains poorly constrained because of its chemical complexity and diverse emission sources. Here, OA hygroscopicity ( κ OA ) was retrieved from comprehensive field observations at a rural site in eastern China using humidified light-scattering measurements and ZSR-based closure analysis. κ OA exhibited pronounced temporal variability during winter, ranging from nearly zero to 0.49 with a mean value of 0.11 ± 0.11. Although OA was generally highly oxidized, κ OA was only weakly correlated with the O:C ratio, indicating that bulk oxidation state alone cannot explain its variability. Instead, κ OA increased systematically with biomass-burning influence. Atmospheric aging substantially enhanced κ OA under biomass-burning-dominated conditions, whereas highly oxidized OA under weak biomass-burning influence remained weakly hygroscopic. These findings demonstrate that the hygroscopic response of OA to atmospheric aging is fundamentally source dependent and indicate that source-dependent parameterizations provide a more physically realistic framework than conventional oxidation-based approaches for representing OA hygroscopicity in atmospheric models.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15349-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Secondary ice production affects tropical convective clouds under different aerosol conditions",
+"link": "https://doi.org/10.5194/acp-26-15349-2026",
+"doi": "10.5194/acp-26-15349-2026",
+"date": "2026-11-02T00:00:00+00:00",
+"summary": "Secondary ice production (SIP) modulates tropical convection, but its interactions with aerosol loading remain uncertain. Using the UK Met Office Unified Model with detailed SIP parameterizations, this study investigates how multiple SIP mechanisms affect a Hector storm under weak instability and varying cloud condensation nuclei (CCN) concentrations. A reference simulation including all SIP mechanisms at a prescribed droplet number concentration ( N d ) of 400 cm −3 is first evaluated against satellite, radar and aircraft observations. At moderate aerosol loading ( N d = 400 cm −3 ), SIP substantially enhances the ice phase. Ice number increases by over 3 orders of magnitude at temperatures warmer than −10 °C, and ice water content rises by up to ∼ 120 % in the anvil. SIP also reduces outgoing longwave radiation (OLR) by 6.8 W m −2 (−2.5 %), increases outgoing shortwave radiation (OSR) by 7.9 W m −2 (+2 %), over a 110 km × 110 km region in 6 h. For this case, precipitation becomes more organized near the convective core, with total accumulation increasing by ∼ 25 %. Under polluted ( N d = 800 cm −3 ) and clean ( N d = 200 cm −3 ) conditions, SIP effects are weaker or spatially fragmented, indicating non-linear aerosol dependence. Sensitivity experiments show that, when combined with rime-splintering (RS), Mode 1 (droplet fragmentation during freezing) weakens at high CCN owing to reduced supercooled raindrop supply in the mixed-phase layer, while Mode 2 (drop–ice collisions with splashing) is inhibited at low CCN due to fewer encounters with large rimed ice particles. In contrast, RS and its combination with ice–ice collisional breakup show relatively limited aerosol sensitivity in this case.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15375-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "A closed-to-open cell mixed-phase cloud transition observed over the Nordic Seas under high aerosol loading and strong surface fluxes",
+"link": "https://doi.org/10.5194/acp-26-15375-2026",
+"doi": "10.5194/acp-26-15375-2026",
+"date": "2026-11-03T00:00:00+00:00",
+"summary": "Closed-to-open cell mixed-phase cloud transitions within marine cold air outbreaks remain poorly understood despite their importance to high-latitude climate. The Cold-Air outbreak Experiment in the Sub-Arctic Region (CAESAR) research aircraft sampled a cold and polluted closed-to-open cell transition with cloud-top temperatures below −20 °C and upstream cloud condensation nuclei concentrations surpassing 600 cm −3 . The aerosol likely originates from Siberian industrial emissions. As the boundary layer deepens prior to and across the transition, driven by strong turbulent surface fluxes and aided by a weakening cloud-top inversion, aerosol number concentrations decrease and supercooled droplet sizes increase, causing ice particles to shift from primarily vapor depositional growth towards riming. Precipitation shafts within open-cells contain abundant large graupel (>5 mm diameter) with liquid-equivalent precipitation intensities reaching 3 mm h −1 . Ice precipitation co-exists with lidar-observed surface cold pools, modulated by entrainment events, juxtaposed with surface-based plumes of warm moist air. Updrafts support liquid water production along convergence boundaries at the upwind cold pool edge. Nonetheless, strong buoyancy fluxes exceeding 200 W m −2 prevent sub-cloud decoupling. Ice particle number concentrations increase tenfold across the transition, surpassing 10 L −1 within open-cells, more than 1000× ice nucleating particle number concentrations. Given that cloud temperatures are too cold for Hallett-Mossop rime splintering, this indicates the importance of other secondary ice production mechanisms. This case expands the observations needed to better understand mixed-phase Arctic cloud processes.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15405-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Characterizing variability and vertical structure of water vapor in the extratropical lower stratosphere",
+"link": "https://doi.org/10.5194/acp-26-15405-2026",
+"doi": "10.5194/acp-26-15405-2026",
+"date": "2026-11-03T00:00:00+00:00",
+"summary": "Stratospheric water vapor strongly affects Earth’s radiative balance, especially in the extratropical lower stratosphere, yet large uncertainties remain regarding its variability, long-term trends and relationships to tropopause behavior. Here we characterize the seasonality, vertical structure, and variability of water vapor near the extratropical tropopause and the extratropical transition layer (ExTL). We analyze 17 years (2005–2021) of satellite observations from the Aura Microwave Limb Sounder (MLS) and the Atmospheric Chemistry Experiment Fourier transform spectrometer (ACE-FTS), with simulations from the Whole Atmosphere Community Climate Model (WACCM) using specified dynamics calculations. Analyses are performed in geometric and tropopause-relative vertical coordinates to assess the influence of coordinate on variability. Tropopause-relative coordinates substantially reduce variance in ExTL water vapor, but artificially enhance variability in the tropical upper troposphere. Tropopause-relative coordinates reveal a clear distinction between variability in the ExTL and the stratospheric overworld approximately 2.5 km above the tropopause. Above this level, there are hemispherically coherent anomalies linked to transport of air originating in the tropics. In contrast, ExTL variability lacks hemispheric coherence and likely reflects smaller-scale stratosphere-troposphere exchange. Interannual changes in ExTL water vapor show a statistically significant negative trend in both hemispheres in MLS data, but that behavior is not reproduced in ACE-FTS measurements or WACCM simulation. Despite this, the datasets agree well on overworld variability and regression responses to climate oscillations. The uncertainty in ExTL trends highlights the need for continued evaluation of long-term satellite records and improved model representation in this climatically sensitive layer.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15423-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Retrieval of ultraviolet aerosol absorption from radiation measurements in young wildfire plumes",
+"link": "https://doi.org/10.5194/acp-26-15423-2026",
+"doi": "10.5194/acp-26-15423-2026",
+"date": "2026-11-03T00:00:00+00:00",
+"summary": "Aerosols play an important role for atmospheric radiative transfer in biomass burning (BB) plumes, where they control photochemistry, direct radiative forcing, and radiation-induced atmospheric dynamics. The optical properties of BB aerosol, however, remain poorly constrained with respect to their absorptive properties at ultraviolet and visible wavelengths. Aircraft-based observations show considerable variability due to heterogeneity in BB plumes, and different measurement methods do not agree with each other. To overcome this challenge, we have developed an algorithm based on the VLIDORT for photochemistry (VPC) radiative transfer model to retrieve the imaginary refractive index k ( λ ) from airborne actinic flux observations at wavelengths λ of 308–440 nm. Using three flights from NASA/NOAA’s Fire Influence on Regional to Global Environments and Air Quality (FIREX-AQ) airborne experiment, we obtain values k (387 nm) between 0.02 and 0.03, and absorption Angstrom exponents α k between 3 and 5 for different transects. Volume absorption cross section (VAC) and single scattering albedo generally agree with aircraft-based observations, but show less variability, most likely because of the inherent spatial averaging of our observations. k ( λ ), VAC and single-scattering co-albedo decrease with physical plume age, with half-lives τ1/2 of 13±3, 16±4 and 17±4 h, respectively. Based on our observations, we present a parameterization of the absorptive properties of BB aerosol from western US wildfires as a function of wavelength and plume age, which will help to improve the representation of BB aerosol in models.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15445-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Springtime East Asian dust heating contributes to interannual poleward shift of the North Pacific storm track",
+"link": "https://doi.org/10.5194/acp-26-15445-2026",
+"doi": "10.5194/acp-26-15445-2026",
+"date": "2026-11-03T00:00:00+00:00",
+"summary": "The North Pacific storm track plays a key role in shaping climate across the Arctic and western North America by modulating precipitation and temperature, yet its interannual sensitivity to springtime East Asian dust remains poorly understood. Based on the Modern-Era Retrospective analysis for Research and Applications, Version 2 (MERRA-2) reanalysis data from 1980 to 2022, we find that anomalously high springtime East Asian dust loading is robustly associated with a systematic poleward shift of the North Pacific storm track on interannual timescales. It is revealed that shortwave absorption by the trans-Pacific dust plume coincides with warming in the 850–400 hPa layer and an anomalous anticyclonic circulation over the North Pacific. This thermal perturbation restructures the meridional temperature gradient and shifts the zone of maximum Eady growth rate poleward, thereby relocating the preferred region for baroclinic eddy development to higher latitudes. The Weather Research and Forecasting model coupled with Chemistry (WRF-Chem) sensitivity experiments reproduce the spatial pattern of the storm track response, supporting the proposed radiative–dynamical pathway. These findings indicate that natural dust aerosols can modulate large-scale North Pacific atmospheric dynamics on interannual timescales and suggest that springtime dust variability should be considered in regional climate assessments.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15461-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Vertical profiling and aerosol typing using fluorescence Raman and depolarization lidar measurements over Thessaloniki, Greece",
+"link": "https://doi.org/10.5194/acp-26-15461-2026",
+"doi": "10.5194/acp-26-15461-2026",
+"date": "2026-11-03T00:00:00+00:00",
+"summary": "In this study, we present the first fluorescence lidar observations over Thessaloniki, Greece, (40.63° N, 22.96° E; 60 m a.s.l.) using a multiwavelength Raman and depolarization lidar with fluorescence capabilities. For the first time in the Eastern Mediterranean fluorescence backscattering coefficient and the spectral fluorescence capacity parameter are retrieved and combined with particle depolarization ratio, lidar ratios, and Ångström exponents to characterize the aerosol load over Thessaloniki, a region influenced by diverse aerosol sources. Representative case studies of biomass-burning smoke, Saharan dust, and mixed pollen showing distinct fluorescence properties are discussed in detail, while an extended dataset covering the period April 2024–December 2025 is further analysed, comprising 108 aerosol layers from 50 measurement cases. A sub-dataset is also compared with the EARLINET Mahalanobis distance–based typing algorithm, highlighting the importance and complementarity of fluorescence lidar observations on the aerosol characterization in complex environments. Based on the spectral fluorescence capacity and the particle depolarization ratio, the identified layers are classified into smoke, dust, polluted continental, clean continental and mixed pollen. THELISYS retrievals show that the spectral fluorescence capacity depends on aerosol type, with smoke showing the highest values (3.5×10-6-12.7×10-6 nm −1 ), followed by mixed pollen (2.3×10-6-4.8×10-6 nm −1 ), polluted continental (1.0×10-6-3.3×10-6 nm −1 ), clean continental (0.3×10-6-1.2×10-6 nm −1 ) and dust (0.4×10-6-1.3×10-6 nm −1 ). The fluorescence capacity values observed for all aerosol types are comparable with other studies across central and northern Europe, however the linear particle depolarization ratio measurements attributed to pollen differ from those reported at more northern latitudes, possibly reflecting differences in pollen type.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15479-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Evidence for Hunga-Tonga eruption influence on the anomalously strong Northern-Hemisphere stratospheric polar vortex in 2024/2025",
+"link": "https://doi.org/10.5194/acp-26-15479-2026",
+"doi": "10.5194/acp-26-15479-2026",
+"date": "2026-11-04T00:00:00+00:00",
+"summary": "The 2022 Hunga Tonga (HT) eruption injected an unprecedented amount of water vapour (WV) into the stratosphere and mesosphere, emerging as a potential multi-year driver of variability in those layers and associated climate feedbacks. Using satellite and reanalysis datasets, and ensemble simulations with the SOCOLv4 model, with and without the HT forcing, we diagnose the chain of processes linking the eruption to the exceptionally strong Northern Hemisphere stratospheric polar vortex (SPV) observed in winter 2024/2025. Satellite data show “tongues” of enhanced WV descending from the mesosphere into the polar stratosphere, collocated with ozone reductions and persistent cold anomalies, alongside a record-strong SPV. Our model with the HT forcing can reproduce the main structure of the descending plume, its effects on chemistry, and the SPV strengthening, albeit with underestimated magnitudes and an earlier onset than observed. Offline radiative transfer calculations indicate that the WV and ozone anomalies drive net radiative cooling over the polar stratosphere, which steepens meridional temperature gradients and thereby intensifies the Arctic polar vortex. The observed 2024/2025 winter thus represents a plausible manifestation of HT-induced vortex variability. Our simulations also predicted the observed shift towards more favorable conditions for sudden stratospheric warmings in the winter 2025/2026 as the WV forcing declines.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15495-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Sensitivities of a simulated Arctic stratocumulus to aerosol and microphysical parameters",
+"link": "https://doi.org/10.5194/acp-26-15495-2026",
+"doi": "10.5194/acp-26-15495-2026",
+"date": "2026-11-04T00:00:00+00:00",
+"summary": "Low-level, mixed-phase clouds are a key component of the Arctic energy budget and can impact the extent and thickness of sea ice. These clouds are influenced by aerosols and microphysical processes that can determine the phase partitioning and thereby cloud lifetime and radiative impacts. Atmospheric models often struggle to represent phase partitioning in Arctic mixed-phase clouds correctly. Aerosol number concentration (ANC), aerosol type (Atype), ice crystal number concentration (ICNC), and ice crystal morphology (ice crystal habit; IChab) have previously been shown to impact phase partitioning in Arctic clouds. We used factorial analysis to rank these parameters according to their explained variance in simulated liquid water path (LWP), ice water path (IWP), and downward longwave radiation at the surface (DWLW) of a slightly supercooled Arctic mixed-phase cloud. Additionally, we analyzed how these parameters affect the final phase state of the simulated cloud. Using MIMICA, the MISU-MIT Cloud Aerosol large-eddy simulation code, we found that ANC was the most important parameter for LWP and DWLW, while ICNC controlled IWP. IChab ranked third for all simulated variables, yet it crucially determined the final phase state of the cloud. The impact of Atype was negligible compared to the other three parameters. Recognizing the limits of relying on a single case study and model, our results suggest that future Arctic field campaigns should prioritize observations of ANC, ICNC, and, crucially, ice habit for slightly supercooled mixed-phase clouds. Models must also represent different ice habits to accurately simulate cloud phase partitioning and its subsequent impact on the Arctic energy budget.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15523-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Impacts of synoptic circulation types on nocturnal ozone increase in the North China Plain: meteorological drivers and physical mechanisms",
+"link": "https://doi.org/10.5194/acp-26-15523-2026",
+"doi": "10.5194/acp-26-15523-2026",
+"date": "2026-11-04T00:00:00+00:00",
+"summary": "Nocturnal ozone (O 3 ) increase (NOI) has become common worldwide, raising the risk of O 3 pollution. While weather types serve as critical drivers of NOI, their specific dynamic influences remain poorly understood. Using ground observations and reanalysis datasets, this study identified the relationship between weather types and NOI days in a representative city in the North China Plain, and revealed the meteorological characteristics and physical mechanisms driving these events. During 2021–2023, 370–444 NOI days were observed, with the occurrence predominantly concentrated between 00:00 and 06:00 local time (69.53 %). After screening, a total of 171 representative NOI days were finally identified to characterize the overall occurrence of local NOI events. Based on the Lamb-Jenkinson method, the representative NOI days were classified into four primary weather types: A-type (57.89 %), S-type (19.88 %), WNE-type (14.04 %), and C-type (8.19 %). A-type was dominated by high-pressure anticyclones with calm conditions, whereas C-type was controlled by low-pressure systems and influenced by moist airflows. S-type was located in the transition zone between high and low pressure, influenced by southern geostrophic winds, and WNE-type was characterized by high-pressure systems with W-N-E geostrophic flows. Distinct mechanical triggers for NOI were further resolved for different types: A-type is dominated by high-pressure subsidence; C-type is driven by cold-pool downdrafts and convective motions; whereas both S-type and WNE-type are primarily controlled by synoptically-driven intense wind shear. This study elucidates the diverse dynamical pathways of weather-driven NOI, providing mechanistic insights for improving O 3 forecasting and mitigation strategies in urban environments.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15543-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Aerosol vertical distributions shaped by boundary layer dynamics in a coastal urban environment: insights from the TRACER campaign",
+"link": "https://doi.org/10.5194/acp-26-15543-2026",
+"doi": "10.5194/acp-26-15543-2026",
+"date": "2026-11-05T00:00:00+00:00",
+"summary": "Aerosol vertical distributions are a major source of uncertainty in quantifying aerosol–cloud–climate interactions. Using observations collected during the 2022 TRACER campaign in Houston, Texas, we investigate how atmospheric boundary layer dynamics shape the vertical structure of aerosol populations in a coastal urban environment. Our lidar retrieval combines micropulse lidar backscatter with ground-based aerosol measurements to obtain aerosol concentration profiles. A compact framework for describing aerosol vertical profile shape is needed to examine factors that influence aerosol vertical distributions and to represent them in model parameterizations or remote sensing retrievals. We introduce a parameterized fitting function for characteristic S-shaped aerosol profiles, with fitted parameters that represent aerosol-layer depth and stratification strength. This parameterization is applied to case studies demonstrating how boundary-layer dynamics, including turbulent mixing, capping inversion strength, and sea-breeze circulations, influence aerosol vertical distributions. Case studies show that aerosol concentrations decrease rapidly near strong capping inversions, the depth of the lower aerosol layer changes with boundary-layer growth and collapse, and sea-breeze passage produces strong coastal–inland differences as maritime air replaces continental aerosol. Analysis of the six-month dataset shows weak but statistically significant positive relationships between daytime boundary layer height and fitted aerosol layer depth, and between the local potential temperature gradient near the aerosol layer top and fitted stratification strength parameter. Finally, we demonstrate an approach for estimating aerosol profile shape from boundary-layer height and potential-temperature gradients using the fitted parameterization. These results show that this parameterization provides simple, interpretable diagnostics for linking aerosol profile shape to boundary-layer dynamics.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15563-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Unveiling the multiphase fate of 2,4-dinitrophenol on aerosols: interfacial hydration modulates competing oxidation pathways and predicted toxicity indicators",
+"link": "https://doi.org/10.5194/acp-26-15563-2026",
+"doi": "10.5194/acp-26-15563-2026",
+"date": "2026-11-05T00:00:00+00:00",
+"summary": "This study elucidates the mechanisms of selected transformation pathways of 2,4-dinitrophenol (2,4-DNP) using an integrated computational framework. In the gas phase, the calculated initial reactions with hydroxyl radicals (⚫OH) and ozone (O 3 ) are kinetically more favorable than the direct reaction with nitrogen dioxide radical (⚫NO 2 ), which is kinetically hindered. In the aqueous phase, solvation substantially modifies the calculated reaction kinetics, and the cumulative electron-withdrawing effect of the two nitro substituents lowers the O 3 reaction rate coefficient by approximately three orders of magnitude relative to mononitrocatechol. For the key radical intermediate generated by ⚫OH addition, hydrogen atom abstraction (HAA) by O 2 is kinetically favored over the competing ⚫NO 2 pathway based on the calculated barriers and an illustrative comparison of effective rates under representative atmospheric concentrations. At the gas-aqueous interface, molecular dynamics (MD) simulations show a non-monotonic dependence of 2,4-DNP adsorption on hydration in the idealized C60/water system, with adsorption strengthening at moderate hydration and weakening at high hydration. Finally, QSAR calculations predict that certain ozonolysis products exhibit higher predicted Ames mutagenicity and developmental toxicity indicators than the parent compound, indicating product-specific changes in predicted toxicity profiles during oxidation. These screening-level predictions require experimental validation. These findings provide molecular-level mechanistic insights into selected transformation pathways and interfacial interactions involving 2,4-DNP and motivate further experimental investigation of its transformation products and their toxicological properties.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15583-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "Uncovering the seasonal trends of VOC production from ozonolysis of seawater",
+"link": "https://doi.org/10.5194/acp-26-15583-2026",
+"doi": "10.5194/acp-26-15583-2026",
+"date": "2026-11-05T00:00:00+00:00",
+"summary": "Large uncertainty exists in the role that the ocean plays as a net source for atmospheric volatile organic carbon (VOC) compounds, in part because of poorly quantified processes near the air–sea interface. Laboratory studies imply that heterogeneous reactions of ozone at the ocean surface may be a key source of VOCs to the marine atmosphere, but the representativeness of such experiments for the chemically complex surface ocean waters is unclear due to limited field evidence. Here, we determined the production ratios of select VOCs formed during ozonolysis of fresh, natural seawater from laboratory experiments under turbulent conditions using a proton-transfer-reaction quadrupole mass spectrometer (PTR-MS). To quantify seasonal variability, near-surface water samples were collected from a temperate marine station during different seasons and measured for ozone-driven VOC production ratios. In all experiments, out of the VOCs monitored the dominant products of ozonolysis were m/z 69 (C 5 H9+), followed by m/z 59 (acetone/propanal) and m/z 45 (acetaldehyde). Clear seasonal differences in VOC production imply that marine biogeochemistry likely drives the availability and composition of VOC precursors. Further ozonolysis experiments using diluted VOC precursors (senescent algal culture, fatty acids, certified natural organic matter (NOM)) resulted in different VOC production compared to those using natural seawater. Our results show that ocean biogeochemical cycling is a key driver of variability in ozone-driven VOC production at the sea surface.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15593-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "A preliminary analysis of tropical anvil-cloud dynamics in EarthCARE",
+"link": "https://doi.org/10.5194/acp-26-15593-2026",
+"doi": "10.5194/acp-26-15593-2026",
+"date": "2026-11-05T00:00:00+00:00",
+"summary": "The vertical motion in tropical anvil clouds is crucial for understanding their maintenance and evolution but is notoriously difficult to observe. This work explores the potential utility of EarthCARE in revealing previously unobserved aspects of anvil clouds using the radar-only (2A.CPR_CLP) and radar-lidar synergy (2B.AC_CLP) products. Composite vertical profiles of cloud fraction sorted by ice water path (IWP) are constructed as a statistical representation of anvil clouds and deep convection. In-cloud vertical air motion as estimated from Doppler measurements reveals that intense updraft penetrating within deep convection gives way to a weaker ascent in anvil clouds. The radar-only product slightly underestimates the ascent in anvil clouds relative to the radar-lidar product due to a difference in the particle size distribution, while the overall spatial pattern of vertical air motion remains consistent. Diagnostic horizontal wind is then derived from the vertical motion estimates under mass conservation in composite vertical-horizontal space. The resulting wind vector field emerges as an overturning mesoscale circulation constituted of a mid-tropospheric inflow and an upper-tropospheric outflow. The present findings, although preliminary, confirm the promising potential of EarthCARE observations for investigating the anvil cloud dynamics.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15611-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "New insights into urban ethanol and oxygenated volatile organic compound sources from combined flux tower and mobile measurements",
+"link": "https://doi.org/10.5194/acp-26-15611-2026",
+"doi": "10.5194/acp-26-15611-2026",
+"date": "2026-11-06T00:00:00+00:00",
+"summary": "Oxygenated volatile organic compounds (OVOCs) including ethanol, methanol, acetone, and acetaldehyde are important components of urban VOC emissions, yet their sources and emissions magnitudes remain highly uncertain. In this study, we leveraged data from a Vocus proton-transfer reaction mass spectrometer deployed during a long-term tower-based eddy covariance flux study and a mobile monitoring campaign to characterize the emissions and sources of urban OVOCs. Ethanol accounted for about half of the measured molar flux and a fifth of the calculated OH reactivity flux. A tracer-based source apportionment approach revealed that cooking was the predominant source of ethanol in the flux footprint (63 % of the ethanol flux), followed by volatile chemical products (VCPs) and other sources (28 %), and motor vehicles (9 %). This result supports the recent inclusion of cooking in VOC emissions inventories and further supports indoor environments as important contributors to urban atmospheric chemistry. Cooking was also a major source of acetaldehyde, while VCPs were the main sources of acetone and methanol in the flux footprint. Mobile monitoring within the flux footprint and beyond informed the representativeness of the tower-based measurements and identified additional OVOC sources. In the broader urban region, fossil fuel combustion was a key source of acetaldehyde, and industrial zones and waste treatment facilities missed by the flux tower were hotspots for ethanol, methanol, and acetone emissions. Together, these results provide new constraints on the sources, seasonality, and magnitude of OVOC fluxes in urban environments through a unique synthesis of tower-based and mobile measurements.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.5194/acp-26-15633-2026": {
+"source": "Atmospheric Chemistry and Physics",
+"title": "EarthCARE Observations of Vertical Motion and Cloud Microphysical Structure in Tropical Cyclones",
+"link": "https://doi.org/10.5194/acp-26-15633-2026",
+"doi": "10.5194/acp-26-15633-2026",
+"date": "2026-11-06T00:00:00+00:00",
+"summary": "The Earth Cloud, Aerosol and Radiation Explorer (EarthCARE) provides the first spaceborne Doppler radar measurements. We construct a tropical cyclone (TC) dataset by collocating 16 months of EarthCARE observations with the International Best Track Archive for Climate Stewardship, comprising 96 intercepts of 27 TCs. The inner-core region exhibits enhanced reflectivity, stronger and more variable upward air motion, and a broader Doppler velocity distribution. Two independent inner-core intercepts show consistent Doppler and air velocity structures. In the rainband region, the Doppler velocity distribution shifts toward more negative values, accompanied by more negative particle terminal velocities and a bright band near the melting level. Particle classifications show small ice dominates the upper troposphere, whereas snow extends toward more negative Doppler velocities between 5 and 12 km. These results show that radial variations in Doppler velocity reflect differences in both air motion and particle sedimentation. We conduct a preliminary single-case comparison for Hurricane Humberto using the Nonhydrostatic Icosahedral Atmospheric Model with two common microphysical configurations. Both configurations underestimate TC intensity and produce narrower distributions than observed. Compared with the Kodama et al. (2021) configuration, the Takasuka et al. (2024) configuration more closely reproduces upper-level structure, with more gradual reflectivity and Doppler velocity changes and a broader cloud ice distribution. Because the comparison is limited to one case, it demonstrates sensitivity to the microphysical configurations rather than a general evaluation of model performance. Overall, EarthCARE provides complementary constraints on vertical air motion, condensate properties, and particle sedimentation for evaluating TC microphysics.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122513": {
+"source": "Atmospheric Environment",
+"title": "Characteristics of urban CO2 fluxes and the impacts of anthropogenic and green spaces on its source-sink relationship transformation in Shenzhen",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122513",
+"doi": "10.1016/j.atmosenv.2026.122513",
+"date": "2026-11-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122524": {
+"source": "Atmospheric Environment",
+"title": "Long-Term Remotely Sensed Aerosol Climatology and Volume Size Distribution Regime Classification in Tucson, Arizona",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122524",
+"doi": "10.1016/j.atmosenv.2026.122524",
+"date": "2026-11-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1016/j.atmosenv.2026.122531": {
+"source": "Atmospheric Environment",
+"title": "Sea-land breeze-driven ozone recirculation and vertical redistribution over a mountainous coastal region of Southeast China",
+"link": "https://doi.org/10.1016/j.atmosenv.2026.122531",
+"doi": "10.1016/j.atmosenv.2026.122531",
+"date": "2026-11-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1016/j.icarus.2026.117388": {
+"source": "Icarus",
+"title": "Ion irradiation of refractory organics as a source of CO2 and CO in the outer Solar System",
+"link": "https://doi.org/10.1016/j.icarus.2026.117388",
+"doi": "10.1016/j.icarus.2026.117388",
+"date": "2026-11-01T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1029/2026je009960": {
+"source": "JGR: Planets",
+"title": "Serpentine Weathering Under Arid Conditions: Implications for Alteration Products and Organic Preservation on Mars",
+"link": "https://doi.org/10.1029/2026je009960",
+"doi": "10.1029/2026je009960",
+"date": "2026-11-24T00:00:00+00:00",
+"summary": "Abstract Serpentine is a key indicator of water‐rock interaction and potentially habitable environments on Earth and Mars. Orbital detections of serpentine on Mars remain limited relative to the broader occurrence that might be expected from abundant olivine‐rich crustal materials, widespread evidence for past water–rock interaction, and terrestrial analogs of serpentinization. This raises the question of whether serpentinization was intrinsically limited, or whether subsequent alteration, surface mixing, and spectral masking have reduced serpentine detectability within arid Martian regolith. We investigated serpentine‐bearing regolith developed over serpentinized ultramafic rocks from the Dalabute and Karamay ophiolitic mélanges in the Junggar Basin, northwestern China, using integrated mineralogical, spectroscopic, geochemical, Fe‐redox, carbon, and microtextural analyses. The profiles indicate a serpentinite weathering pathway that differs from typical humid‐climate weathering. Under arid conditions, limited water flux restricts deep leaching, while strong evaporation drives upward solute migration and promotes the near‐surface accumulation of salts and carbonates. Surface assemblages reflect protolith inheritance, evaporative precipitation, and allochthonous detrital input, indicated by quartz, feldspar, and mica. Carbonates associated with serpentine‐rich fragments indicate localized precipitation. Pyroaurite (Mg 6 Fe 3+ 2 (CO 3 )(OH) 16 ·4H 2 O) occurring along or within serpentine‐rich particles provides compelling evidence for an authigenic phase linked to local alteration of the serpentinite substrate. Fine‐grained ferric signatures likely reflect mixed detrital, redistributed, and serpentine‐associated Fe components. These results suggest that Martian serpentine may persist in arid regolith but be spectrally masked by detrital particles, evaporitic salts, ferric phases, and authigenic carbonates. Some Martian serpentine–carbonate assemblages may therefore record late‐stage surface overprinting rather than primary hydrothermal serpentinization.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1029/2026je010034": {
+"source": "JGR: Planets",
+"title": "Cyclostrophic Zonal Wind Retrieval and Midlatitude Jet Structure in Venus's Middle Atmosphere From Akatsuki Radio Occultation Measurements",
+"link": "https://doi.org/10.1029/2026je010034",
+"doi": "10.1029/2026je010034",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "Abstract This study investigates zonal winds in the middle atmosphere of Venus using eight years (2016–2024) of vertical temperature profiles obtained from the Radio Science experiment onboard Akatsuki. Assuming cyclostrophic balance, zonal wind velocities are derived from meridional temperature gradients using the thermal wind relation. The results reveal a prominent southern midlatitude jet between approximately 30°S and 45°S, with peak wind speeds of approximately 130–140 m s −1 near 38°S, consistent with previous observational and modeling studies. The derived zonal winds show good agreement with cloud‐motion vector winds obtained from Akatsuki's ultraviolet imager, as well as with the Venus climate database and Atmospheric Long‐term Reanalysis for Venus, demonstrating consistency across independent observational and modeling data sets. This agreement supports the applicability of cyclostrophic balance for characterizing atmospheric dynamics in Venus's middle atmosphere. These results provide new observational constraints on the structure of zonal circulation and highlight the role of the southern midlatitude jet in maintaining atmospheric superrotation. This study demonstrates the capability of Akatsuki radio occultation measurements to resolve key dynamic features of the Venusian atmosphere, contributing to an improved understanding of Venusian atmospheric dynamics and comparative planetology.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-79922-7": {
+"source": "Nature Communications",
+"title": "A conceptual analysis of One Health and Person-Centred Practice",
+"link": "https://doi.org/10.1038/s41467-026-79922-7",
+"doi": "10.1038/s41467-026-79922-7",
+"date": "2026-11-23T00:00:00+00:00",
+"summary": "Abstract Climate change, emerging infectious diseases and widening inequalities show that the health of people, animals and ecosystems cannot be separated. However, the ideas we use to understand this interdependence and those we use to organise and practise care have largely developed apart. Here we bring together One Health, linking human, animal and environmental health, and person-centred practice, focused on dignity, relationships and meaningful care. We show where they meet, where they clash and what each offers the other, arguing that care without responsibility for animals and ecosystems is incomplete, as is One Health without attention to lived experience.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-79437-1": {
+"source": "Nature Communications",
+"title": "Marine volatile organic compounds air-sea exchange dynamics across a summer-to-autumn ecosystem transition",
+"link": "https://doi.org/10.1038/s41467-026-79437-1",
+"doi": "10.1038/s41467-026-79437-1",
+"date": "2026-11-23T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-78856-4": {
+"source": "Nature Communications",
+"title": "Global intercomparison of ocean-based geochemical carbon dioxide removal efficiencies",
+"link": "https://doi.org/10.1038/s41467-026-78856-4",
+"doi": "10.1038/s41467-026-78856-4",
+"date": "2026-11-24T00:00:00+00:00",
+"summary": "Abstract Ocean-based geochemical CO 2 removal approaches, including ocean alkalinity enhancement (OAE) and direct ocean removal (DOR), have received attention for their potential to remove billion-ton-scale amounts of CO 2 from the atmosphere. Their viability at scale depends on efficiency. Here, we develop a unified framework for evaluating the efficiencies of ocean geochemical perturbations: OAE adds alkalinity, DOR removes dissolved inorganic carbon (DIC), and combined alkalinity and DIC addition (ADA) adds both simultaneously. Using a global ocean biogeochemical model, we map global and seasonal DOR efficiency and compare it with OAE efficiency. Further, we show that OAE and DOR simulations can be combined to quantify the effect of simultaneous perturbations in alkalinity and DIC. This enables direct quantification of the oceanic fate of ADA perturbations from approaches such as enhanced rock weathering, riverine alkalinity enhancement and accelerated weathering of limestone. In these approaches, the added alkalinity partially equilibrates with CO 2 before entering the ocean, effectively adding both alkalinity and DIC.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-79580-9": {
+"source": "Nature Communications",
+"title": "3D-MINSTED nanoscopy and protein tracking in densely labelled living cells",
+"link": "https://doi.org/10.1038/s41467-026-79580-9",
+"doi": "10.1038/s41467-026-79580-9",
+"date": "2026-11-24T00:00:00+00:00",
+"summary": "Abstract Investigating the movements and conformational changes of proteins in living cells is essential for understanding their function. The recently introduced fluorescence nanoscopy method called MINSTED has successfully tracked single fluorophore-labelled proteins, albeit in fixed cells and two dimensions only. Here we introduce a MINSTED setup for live-cell tracking of individual proteins in three dimensions (3D) with a localization precision σ down to <1 nm. Applied to the motor protein kinesin-1, our MINSTED nanoscope follows single proteins in 3D as they process along microtubules in 16 nm steps. Individual steps are resolved amid substantial intracellular background. The unique capability of the 3D stimulated emission depletion (STED) beam to carve out the signal of the protein label of interest enables efficient single-molecule investigations at hitherto unpractically high concentrations of labelled proteins and thus in crowded live-cell environments.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-79521-6": {
+"source": "Nature Communications",
+"title": "Achieving high-yield and pilot-scale synthesis of nano graphene oxide via photochemical defect engineering and oxidative cleavage",
+"link": "https://doi.org/10.1038/s41467-026-79521-6",
+"doi": "10.1038/s41467-026-79521-6",
+"date": "2026-11-25T00:00:00+00:00",
+"summary": "Abstract The high-yield synthesis of nanoscale graphene oxide is increasingly critical, yet widespread scalable implementation of top-down methods remains hindered by low efficiency. Here, we report a highly efficient, scaled-up approach coupling photochemical defect engineering and oxidative cleavage to fragment micron-sized graphene oxide into nanoscale flakes. Irradiation induces nanoscale holes on the graphene oxide basal plane, causing rapid fragmentation upon hydrogen peroxide treatment. This yields nanoscale graphene oxide (20 to 60 nanometers) featuring an sp 2 -hybridized carbon core and carboxylic acid-rich edges. The material exhibits exceptional stability against thermal ripening, prolonged solar irradiation, and chemical reduction. Achieving an 85 ± 5 % conversion yield, the practical scalability of this process is demonstrated using a pilot-scale device with a projected annual capacity of 0.52 tons of powder. This work provides a route for the pilot-scale production of high-performance nanoscale graphene oxide materials.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-79713-0": {
+"source": "Nature Communications",
+"title": "Carbon-neutral algal bloom management via algal organic matter repurposing",
+"link": "https://doi.org/10.1038/s41467-026-79713-0",
+"doi": "10.1038/s41467-026-79713-0",
+"date": "2026-11-25T00:00:00+00:00",
+"summary": "Abstract Algal organic matter (AOM) has been considered a typical pollutant in algal bloom waters, conventionally managed through flocculation-flotation processes with high carbon footprints. This study presents a paradigm shift by redefining AOM as a functional crosslinker and developing an AOM-induced self-driven flotation (A-SDF) strategy. The approach utilizes active groups in AOM (-COOH/-OH) coordinated with trace amounts of metal coagulants to construct multilevel gel flocs with Al 2 O 3 /FeO(OH) crystalline phases. Remarkably, these flocs not only capture algal cells but also activate dissolved oxygen (DO), inducing DO enrichment-interfacial gas nucleation behavior (DOE-IGNB) and leading to microbubbles (MBs) formation at the floc interface under mild turbulence. The process achieved efficient removal of algal cells (82–95%), turbidity (86–95%), and AOM (45–79%) within 2 min without external aeration. Compared with existing technologies, the carbon footprint, treatment time, and economic cost were reduced by 66.08–96.90%, 71.67–96.00%, and 50.55–97.67%, respectively, while residual metal concentrations remained well below drinking water standards. Density functional theory calculations confirmed strong DO adsorption by tetrahedral AlO 4 /FeO 4 lattices as the molecular mechanism driving DOE-IGNB. By repurposing AOM as a resource and activating endogenous DO, this work provides a universal carbon-neutral pathway for sustainable algal bloom management worldwide.",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
+},
+"doi:10.1038/s41467-026-79798-7": {
+"source": "Nature Communications",
+"title": "Dynamic B–OH intermediates enable photocatalytic conversion of CO2 into formic acid",
+"link": "https://doi.org/10.1038/s41467-026-79798-7",
+"doi": "10.1038/s41467-026-79798-7",
+"date": "2026-11-26T00:00:00+00:00",
+"summary": "",
+"first_seen": "2026-11-27T05:17:20.078560+00:00"
 }
 }
